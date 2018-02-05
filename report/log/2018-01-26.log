@@ -1,0 +1,921 @@
+2018-01-26 09:49:18,478 - root - INFO - ############################### START ###############################
+2018-01-26 09:49:41,246 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 22.736775875091553 seconds
+2018-01-26 09:49:41,403 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.1406264305114746 seconds
+2018-01-26 09:49:43,486 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 2.0831241607666016 seconds
+2018-01-26 09:49:43,632 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.14135050773620605 seconds
+2018-01-26 09:49:43,722 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08453583717346191 seconds
+2018-01-26 09:49:43,848 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.1215364933013916 seconds
+2018-01-26 09:49:46,663 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 2.8096063137054443 seconds
+2018-01-26 09:49:46,669 - root - INFO - FAIL    Unable to click element: <//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.0 seconds
+2018-01-26 09:49:49,358 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.674473762512207 seconds
+2018-01-26 09:49:49,358 - root - INFO - ###############################  End  ###############################
+2018-01-26 09:49:53,886 - root - INFO - 发送邮件成功
+2018-01-26 10:00:56,577 - root - INFO - ############################### START ###############################
+2018-01-26 10:01:13,241 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.664079427719116 seconds
+2018-01-26 10:01:13,241 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0 seconds
+2018-01-26 10:01:13,647 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.38954758644104004 seconds
+2018-01-26 10:01:13,726 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07104945182800293 seconds
+2018-01-26 10:01:13,806 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07405257225036621 seconds
+2018-01-26 10:01:13,920 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.10907769203186035 seconds
+2018-01-26 10:01:15,393 - root - INFO - FAIL    Unable to click element: <xpath->html/body/div[10]/div[1]/a>, Spend 1.1328752040863037 seconds
+2018-01-26 10:01:19,623 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 4.219386577606201 seconds
+2018-01-26 10:01:19,623 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:01:25,822 - root - INFO - 发送邮件成功
+2018-01-26 10:03:53,881 - root - INFO - ############################### START ###############################
+2018-01-26 10:04:08,050 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.164013385772705 seconds
+2018-01-26 10:04:08,346 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.28121304512023926 seconds
+2018-01-26 10:04:08,774 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.42133665084838867 seconds
+2018-01-26 10:04:08,855 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07305192947387695 seconds
+2018-01-26 10:04:09,167 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.30267953872680664 seconds
+2018-01-26 10:04:09,238 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06704878807067871 seconds
+2018-01-26 10:04:12,715 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 3.467772960662842 seconds
+2018-01-26 10:04:12,995 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.26859045028686523 seconds
+2018-01-26 10:04:13,049 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.04202914237976074 seconds
+2018-01-26 10:04:14,155 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.0927729606628418 seconds
+2018-01-26 10:04:14,501 - root - INFO - SUCCESS    Switch to frame out, Spend 0.335237979888916 seconds
+2018-01-26 10:04:14,549 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.04002094268798828 seconds
+2018-01-26 10:04:19,682 - root - INFO - FAIL    Unable switch to frame element: <id->fRight>, Spend 5.12960147857666 seconds
+2018-01-26 10:04:21,490 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8013830184936523 seconds
+2018-01-26 10:04:21,508 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:04:26,734 - root - INFO - 发送邮件成功
+2018-01-26 10:07:08,847 - root - INFO - ############################### START ###############################
+2018-01-26 10:07:27,370 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.523155450820923 seconds
+2018-01-26 10:07:27,625 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.254483699798584 seconds
+2018-01-26 10:07:28,148 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5073771476745605 seconds
+2018-01-26 10:07:28,239 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08105826377868652 seconds
+2018-01-26 10:07:28,316 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06904935836791992 seconds
+2018-01-26 10:07:28,404 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08306026458740234 seconds
+2018-01-26 10:07:29,503 - root - INFO - FAIL    Unable to click element: <xpath->html/body/div[10]/div[1]/a>, Spend 1.0915534496307373 seconds
+2018-01-26 10:07:31,596 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0843591690063477 seconds
+2018-01-26 10:07:31,596 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:07:36,669 - root - INFO - 发送邮件成功
+2018-01-26 10:09:21,973 - root - INFO - ############################### START ###############################
+2018-01-26 10:09:38,545 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.568562984466553 seconds
+2018-01-26 10:09:38,780 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2187514305114746 seconds
+2018-01-26 10:09:39,271 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4907870292663574 seconds
+2018-01-26 10:09:39,344 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.06604790687561035 seconds
+2018-01-26 10:09:39,421 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06904840469360352 seconds
+2018-01-26 10:09:39,519 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.09406781196594238 seconds
+2018-01-26 10:09:40,805 - root - INFO - FAIL    Unable to click element: <xpath->html/body/div[10]/div[1]/a>, Spend 1.279256820678711 seconds
+2018-01-26 10:09:43,974 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.1644551753997803 seconds
+2018-01-26 10:09:43,990 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:09:48,277 - root - INFO - 发送邮件成功
+2018-01-26 10:10:12,078 - root - INFO - ############################### START ###############################
+2018-01-26 10:10:27,380 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.301832675933838 seconds
+2018-01-26 10:10:27,708 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.312502384185791 seconds
+2018-01-26 10:10:28,105 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3974781036376953 seconds
+2018-01-26 10:10:28,185 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07405376434326172 seconds
+2018-01-26 10:10:28,313 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.11007976531982422 seconds
+2018-01-26 10:10:28,387 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06604599952697754 seconds
+2018-01-26 10:10:30,422 - root - INFO - FAIL    Unable to click element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.02301645278930664 seconds
+2018-01-26 10:10:32,655 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2283058166503906 seconds
+2018-01-26 10:10:32,655 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:11:53,227 - root - INFO - ############################### START ###############################
+2018-01-26 10:12:10,089 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.86170196533203 seconds
+2018-01-26 10:12:10,104 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0 seconds
+2018-01-26 10:12:10,554 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.44848036766052246 seconds
+2018-01-26 10:12:10,638 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0770564079284668 seconds
+2018-01-26 10:12:10,730 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08205747604370117 seconds
+2018-01-26 10:12:10,825 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08305788040161133 seconds
+2018-01-26 10:12:13,875 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.04102635383605957 seconds
+2018-01-26 10:12:13,933 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04702925682067871 seconds
+2018-01-26 10:12:14,207 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.2661890983581543 seconds
+2018-01-26 10:12:15,379 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.156790018081665 seconds
+2018-01-26 10:12:15,577 - root - INFO - SUCCESS    Switch to frame out, Spend 0.18712925910949707 seconds
+2018-01-26 10:12:16,093 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.5053579807281494 seconds
+2018-01-26 10:12:21,165 - root - INFO - FAIL    Unable to click element: <name->btnCreateUser>, Spend 5.047058582305908 seconds
+2018-01-26 10:12:22,979 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.806574821472168 seconds
+2018-01-26 10:12:22,995 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:14:06,761 - root - INFO - ############################### START ###############################
+2018-01-26 10:14:22,589 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.811702251434326 seconds
+2018-01-26 10:14:22,932 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3281285762786865 seconds
+2018-01-26 10:14:23,559 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6104331016540527 seconds
+2018-01-26 10:14:23,664 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.09807038307189941 seconds
+2018-01-26 10:14:23,781 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.11107730865478516 seconds
+2018-01-26 10:14:23,861 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07505345344543457 seconds
+2018-01-26 10:14:27,049 - root - INFO - FAIL    Unable to click element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.18012738227844238 seconds
+2018-01-26 10:14:28,765 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7070555686950684 seconds
+2018-01-26 10:14:28,765 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:15:10,436 - root - INFO - ############################### START ###############################
+2018-01-26 10:15:25,134 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.69799280166626 seconds
+2018-01-26 10:15:25,525 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.37500429153442383 seconds
+2018-01-26 10:15:25,974 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4330141544342041 seconds
+2018-01-26 10:15:26,052 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07105159759521484 seconds
+2018-01-26 10:15:26,129 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06704878807067871 seconds
+2018-01-26 10:15:26,224 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08606266975402832 seconds
+2018-01-26 10:15:31,255 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.02301764488220215 seconds
+2018-01-26 10:15:31,291 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03102421760559082 seconds
+2018-01-26 10:15:31,359 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.062043190002441406 seconds
+2018-01-26 10:15:32,630 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.2614834308624268 seconds
+2018-01-26 10:15:32,760 - root - INFO - SUCCESS    Switch to frame out, Spend 0.12408828735351562 seconds
+2018-01-26 10:15:32,795 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.019011974334716797 seconds
+2018-01-26 10:15:37,882 - root - INFO - FAIL    Unable switch to frame element: <id->fRight>, Spend 5.07805609703064 seconds
+2018-01-26 10:15:39,647 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7488658428192139 seconds
+2018-01-26 10:15:39,662 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:20:31,199 - root - INFO - ############################### START ###############################
+2018-01-26 10:20:48,859 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.644434928894043 seconds
+2018-01-26 10:20:49,203 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3437528610229492 seconds
+2018-01-26 10:20:49,671 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.45147013664245605 seconds
+2018-01-26 10:20:49,769 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.09106922149658203 seconds
+2018-01-26 10:20:49,879 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.10408568382263184 seconds
+2018-01-26 10:20:49,960 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07205009460449219 seconds
+2018-01-26 10:20:55,033 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.06504535675048828 seconds
+2018-01-26 10:20:55,080 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04102969169616699 seconds
+2018-01-26 10:20:55,153 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.06404614448547363 seconds
+2018-01-26 10:20:56,266 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1035568714141846 seconds
+2018-01-26 10:20:56,488 - root - INFO - SUCCESS    Switch to frame out, Spend 0.213151216506958 seconds
+2018-01-26 10:20:56,740 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.2371659278869629 seconds
+2018-01-26 10:20:57,026 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.2711946964263916 seconds
+2018-01-26 10:20:57,069 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.03502392768859863 seconds
+2018-01-26 10:20:57,104 - root - INFO - FAIL    Unable to clear and type element: <id->loginId> content: daxiong, Spend 0.022016048431396484 seconds
+2018-01-26 10:20:58,850 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7360167503356934 seconds
+2018-01-26 10:20:58,866 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:22:10,555 - root - INFO - ############################### START ###############################
+2018-01-26 10:22:27,405 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.85020112991333 seconds
+2018-01-26 10:22:27,780 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.34331703186035156 seconds
+2018-01-26 10:22:28,234 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4547133445739746 seconds
+2018-01-26 10:22:28,325 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08506155014038086 seconds
+2018-01-26 10:22:28,408 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07205033302307129 seconds
+2018-01-26 10:22:28,503 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08305859565734863 seconds
+2018-01-26 10:22:33,534 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.025022268295288086 seconds
+2018-01-26 10:22:33,578 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03802800178527832 seconds
+2018-01-26 10:22:33,644 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.055036067962646484 seconds
+2018-01-26 10:22:34,745 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.0951077938079834 seconds
+2018-01-26 10:22:34,941 - root - INFO - SUCCESS    Switch to frame out, Spend 0.19013452529907227 seconds
+2018-01-26 10:22:35,372 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.4212987422943115 seconds
+2018-01-26 10:22:35,436 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.05203723907470703 seconds
+2018-01-26 10:22:35,552 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.10407280921936035 seconds
+2018-01-26 10:22:37,592 - root - INFO - FAIL    Unable to clear and type element: <id->loginId> content: daxiong, Spend 0.03002190589904785 seconds
+2018-01-26 10:22:39,541 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.9424479007720947 seconds
+2018-01-26 10:22:39,556 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:24:59,724 - root - INFO - ############################### START ###############################
+2018-01-26 10:25:16,194 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.470228672027588 seconds
+2018-01-26 10:25:16,288 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0937490463256836 seconds
+2018-01-26 10:25:16,720 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.43140625953674316 seconds
+2018-01-26 10:25:16,826 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.09406685829162598 seconds
+2018-01-26 10:25:16,970 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07405781745910645 seconds
+2018-01-26 10:25:17,044 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06604576110839844 seconds
+2018-01-26 10:25:22,363 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.3112204074859619 seconds
+2018-01-26 10:25:22,429 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.05804133415222168 seconds
+2018-01-26 10:25:22,564 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.1270885467529297 seconds
+2018-01-26 10:25:23,687 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.113588571548462 seconds
+2018-01-26 10:25:23,881 - root - INFO - SUCCESS    Switch to frame out, Spend 0.18587803840637207 seconds
+2018-01-26 10:25:24,289 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.3972818851470947 seconds
+2018-01-26 10:25:24,422 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.12109589576721191 seconds
+2018-01-26 10:25:26,599 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.16711854934692383 seconds
+2018-01-26 10:25:29,721 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.11208081245422363 seconds
+2018-01-26 10:25:29,860 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.13528108596801758 seconds
+2018-01-26 10:25:29,919 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05403947830200195 seconds
+2018-01-26 10:25:29,970 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.045032501220703125 seconds
+2018-01-26 10:25:30,050 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.07605504989624023 seconds
+2018-01-26 10:25:30,106 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.05003523826599121 seconds
+2018-01-26 10:25:35,158 - root - INFO - FAIL    Unable to click element: <xpath->//button[@type="button"])[9]>, Spend 5.045255661010742 seconds
+2018-01-26 10:25:37,063 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8886566162109375 seconds
+2018-01-26 10:25:37,063 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:27:46,090 - root - INFO - ############################### START ###############################
+2018-01-26 10:28:01,387 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.296880006790161 seconds
+2018-01-26 10:28:01,731 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3437526226043701 seconds
+2018-01-26 10:28:02,202 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.45508360862731934 seconds
+2018-01-26 10:28:02,293 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0840599536895752 seconds
+2018-01-26 10:28:02,381 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07805490493774414 seconds
+2018-01-26 10:28:02,472 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0840604305267334 seconds
+2018-01-26 10:28:07,508 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.02700495719909668 seconds
+2018-01-26 10:28:07,551 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03801560401916504 seconds
+2018-01-26 10:28:07,622 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.06404304504394531 seconds
+2018-01-26 10:28:08,729 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1000938415527344 seconds
+2018-01-26 10:28:08,952 - root - INFO - SUCCESS    Switch to frame out, Spend 0.21315360069274902 seconds
+2018-01-26 10:28:09,410 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.4483189582824707 seconds
+2018-01-26 10:28:09,525 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.09906649589538574 seconds
+2018-01-26 10:28:10,746 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.20714998245239258 seconds
+2018-01-26 10:28:10,825 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.0700521469116211 seconds
+2018-01-26 10:28:10,898 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.06505894660949707 seconds
+2018-01-26 10:28:10,957 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.053038835525512695 seconds
+2018-01-26 10:28:11,009 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.04703474044799805 seconds
+2018-01-26 10:28:11,079 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.06305694580078125 seconds
+2018-01-26 10:28:11,143 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.05903029441833496 seconds
+2018-01-26 10:28:11,250 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.10005807876586914 seconds
+2018-01-26 10:28:13,179 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.9235146045684814 seconds
+2018-01-26 10:28:13,179 - root - INFO - ###############################  End  ###############################
+2018-01-26 10:29:27,312 - root - INFO - ############################### START ###############################
+2018-01-26 10:29:43,300 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.972283840179443 seconds
+2018-01-26 10:29:43,724 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.40823912620544434 seconds
+2018-01-26 10:29:44,171 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.43164825439453125 seconds
+2018-01-26 10:29:44,246 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.06904888153076172 seconds
+2018-01-26 10:29:44,327 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0690467357635498 seconds
+2018-01-26 10:29:44,410 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07805323600769043 seconds
+2018-01-26 10:29:49,567 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.14810442924499512 seconds
+2018-01-26 10:29:49,645 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.07105112075805664 seconds
+2018-01-26 10:29:49,672 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.017012596130371094 seconds
+2018-01-26 10:29:50,788 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1078882217407227 seconds
+2018-01-26 10:29:50,912 - root - INFO - SUCCESS    Switch to frame out, Spend 0.11226010322570801 seconds
+2018-01-26 10:29:51,261 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.3352372646331787 seconds
+2018-01-26 10:29:51,487 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.2141425609588623 seconds
+2018-01-26 10:29:52,793 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.2891974449157715 seconds
+2018-01-26 10:29:52,965 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.16011357307434082 seconds
+2018-01-26 10:29:53,107 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.13609623908996582 seconds
+2018-01-26 10:29:53,175 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06304478645324707 seconds
+2018-01-26 10:29:53,228 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.04603123664855957 seconds
+2018-01-26 10:29:53,302 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.06904959678649902 seconds
+2018-01-26 10:29:53,370 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.06104278564453125 seconds
+2018-01-26 10:29:53,458 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.08386445045471191 seconds
+2018-01-26 10:29:57,334 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8701331615447998 seconds
+2018-01-26 10:29:57,350 - root - INFO - ###############################  End  ###############################
+2018-01-26 11:23:49,039 - root - INFO - ############################### START ###############################
+2018-01-26 11:24:05,742 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.687598943710327 seconds
+2018-01-26 11:24:05,851 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0781245231628418 seconds
+2018-01-26 11:24:06,432 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5806610584259033 seconds
+2018-01-26 11:24:06,525 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08506202697753906 seconds
+2018-01-26 11:24:06,584 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05103564262390137 seconds
+2018-01-26 11:24:06,657 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0683448314666748 seconds
+2018-01-26 11:24:11,708 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.041028738021850586 seconds
+2018-01-26 11:24:11,762 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04603385925292969 seconds
+2018-01-26 11:24:11,788 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.01801276206970215 seconds
+2018-01-26 11:24:12,899 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.099137544631958 seconds
+2018-01-26 11:24:13,021 - root - INFO - SUCCESS    Switch to frame out, Spend 0.11362385749816895 seconds
+2018-01-26 11:24:13,039 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.01099395751953125 seconds
+2018-01-26 11:24:13,057 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.011005640029907227 seconds
+2018-01-26 11:24:14,150 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.08305788040161133 seconds
+2018-01-26 11:24:14,189 - root - INFO - FAIL    Unable to clear and type element: <id->loginId> content: daxiong, Spend 0.03302311897277832 seconds
+2018-01-26 11:24:15,997 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7982616424560547 seconds
+2018-01-26 11:24:15,997 - root - INFO - ###############################  End  ###############################
+2018-01-26 11:25:53,872 - root - INFO - ############################### START ###############################
+2018-01-26 11:26:10,825 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.937764167785645 seconds
+2018-01-26 11:26:10,841 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0 seconds
+2018-01-26 11:26:11,422 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5627872943878174 seconds
+2018-01-26 11:26:11,527 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.09506559371948242 seconds
+2018-01-26 11:26:11,616 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08305954933166504 seconds
+2018-01-26 11:26:11,721 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.09106254577636719 seconds
+2018-01-26 11:26:16,932 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.20413494110107422 seconds
+2018-01-26 11:26:16,991 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04303121566772461 seconds
+2018-01-26 11:26:17,012 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.016011953353881836 seconds
+2018-01-26 11:26:18,157 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1370172500610352 seconds
+2018-01-26 11:26:18,477 - root - INFO - SUCCESS    Switch to frame out, Spend 0.3112201690673828 seconds
+2018-01-26 11:26:18,497 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.011998176574707031 seconds
+2018-01-26 11:26:18,515 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.01100778579711914 seconds
+2018-01-26 11:26:20,660 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.1372389793395996 seconds
+2018-01-26 11:26:20,735 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.0600428581237793 seconds
+2018-01-26 11:26:20,909 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.16712212562561035 seconds
+2018-01-26 11:26:20,998 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0790565013885498 seconds
+2018-01-26 11:26:21,062 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.05804324150085449 seconds
+2018-01-26 11:26:21,151 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.08306097984313965 seconds
+2018-01-26 11:26:21,239 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.07605338096618652 seconds
+2018-01-26 11:26:21,370 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.12609171867370605 seconds
+2018-01-26 11:26:26,540 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.13082528114318848 seconds
+2018-01-26 11:26:26,602 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaopang, Spend 0.06249094009399414 seconds
+2018-01-26 11:26:26,665 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 小胖, Spend 0.06249427795410156 seconds
+2018-01-26 11:26:26,712 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04687976837158203 seconds
+2018-01-26 11:26:26,759 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.04688715934753418 seconds
+2018-01-26 11:26:26,821 - root - INFO - SUCCESS    Clear and type element: <id->email> content: xiaopang@163.com, Spend 0.062497854232788086 seconds
+2018-01-26 11:26:26,884 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18855554444, Spend 0.04687786102294922 seconds
+2018-01-26 11:26:26,962 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.07812356948852539 seconds
+2018-01-26 11:26:31,801 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8190820217132568 seconds
+2018-01-26 11:26:31,801 - root - INFO - ###############################  End  ###############################
+2018-01-26 11:27:40,970 - root - INFO - ############################### START ###############################
+2018-01-26 11:27:57,041 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.071089267730713 seconds
+2018-01-26 11:27:57,275 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.23437905311584473 seconds
+2018-01-26 11:27:57,899 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6224994659423828 seconds
+2018-01-26 11:27:57,978 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0720512866973877 seconds
+2018-01-26 11:27:58,043 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0540318489074707 seconds
+2018-01-26 11:27:58,147 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.09907197952270508 seconds
+2018-01-26 11:28:03,198 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.04203009605407715 seconds
+2018-01-26 11:28:03,251 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04802203178405762 seconds
+2018-01-26 11:28:03,321 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.06404757499694824 seconds
+2018-01-26 11:28:04,462 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1318540573120117 seconds
+2018-01-26 11:28:04,665 - root - INFO - SUCCESS    Switch to frame out, Spend 0.19508147239685059 seconds
+2018-01-26 11:28:05,133 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.453319787979126 seconds
+2018-01-26 11:28:05,226 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.08005499839782715 seconds
+2018-01-26 11:28:07,361 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.12909221649169922 seconds
+2018-01-26 11:28:07,463 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.08906316757202148 seconds
+2018-01-26 11:28:07,673 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.20014023780822754 seconds
+2018-01-26 11:28:07,753 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0720512866973877 seconds
+2018-01-26 11:28:07,808 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.048033952713012695 seconds
+2018-01-26 11:28:07,884 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.07005119323730469 seconds
+2018-01-26 11:28:07,971 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.08105707168579102 seconds
+2018-01-26 11:28:08,067 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.09107613563537598 seconds
+2018-01-26 11:28:11,227 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.0360262393951416 seconds
+2018-01-26 11:28:11,291 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaopang, Spend 0.059030771255493164 seconds
+2018-01-26 11:28:11,340 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 小胖, Spend 0.044031381607055664 seconds
+2018-01-26 11:28:11,393 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0480349063873291 seconds
+2018-01-26 11:28:11,446 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.04802393913269043 seconds
+2018-01-26 11:28:11,510 - root - INFO - SUCCESS    Clear and type element: <id->email> content: xiaopang@163.com, Spend 0.057041168212890625 seconds
+2018-01-26 11:28:11,567 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18855554444, Spend 0.05284905433654785 seconds
+2018-01-26 11:28:11,642 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.0682520866394043 seconds
+2018-01-26 11:28:16,355 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.6250193119049072 seconds
+2018-01-26 11:28:16,355 - root - INFO - ###############################  End  ###############################
+2018-01-26 11:28:21,452 - root - INFO - 发送邮件成功
+2018-01-26 15:01:07,166 - root - INFO - ############################### START ###############################
+2018-01-26 15:01:26,056 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.890774965286255 seconds
+2018-01-26 15:01:26,103 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0312497615814209 seconds
+2018-01-26 15:01:27,106 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0024969577789307 seconds
+2018-01-26 15:01:27,321 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.20723891258239746 seconds
+2018-01-26 15:01:27,533 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.20226621627807617 seconds
+2018-01-26 15:01:27,727 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.18679571151733398 seconds
+2018-01-26 15:01:32,776 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.04302477836608887 seconds
+2018-01-26 15:01:32,819 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.0360262393951416 seconds
+2018-01-26 15:01:32,896 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.06704854965209961 seconds
+2018-01-26 15:01:34,141 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.2397983074188232 seconds
+2018-01-26 15:01:34,415 - root - INFO - SUCCESS    Switch to frame out, Spend 0.2681903839111328 seconds
+2018-01-26 15:01:34,787 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.35524964332580566 seconds
+2018-01-26 15:01:35,088 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.2922062873840332 seconds
+2018-01-26 15:01:38,908 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7862796783447266 seconds
+2018-01-26 15:01:38,924 - root - INFO - ###############################  End  ###############################
+2018-01-26 15:07:04,636 - root - INFO - ############################### START ###############################
+2018-01-26 15:07:20,841 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.204264402389526 seconds
+2018-01-26 15:07:20,856 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0156252384185791 seconds
+2018-01-26 15:07:21,592 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.7349863052368164 seconds
+2018-01-26 15:07:21,734 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.1250593662261963 seconds
+2018-01-26 15:07:21,815 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07205080986022949 seconds
+2018-01-26 15:07:21,918 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0960690975189209 seconds
+2018-01-26 15:07:26,969 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.04303121566772461 seconds
+2018-01-26 15:07:27,005 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.028020143508911133 seconds
+2018-01-26 15:07:27,099 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.08706092834472656 seconds
+2018-01-26 15:07:28,392 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.2837376594543457 seconds
+2018-01-26 15:07:28,534 - root - INFO - SUCCESS    Switch to frame out, Spend 0.13609695434570312 seconds
+2018-01-26 15:07:28,573 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.0240170955657959 seconds
+2018-01-26 15:07:28,610 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.02801799774169922 seconds
+2018-01-26 15:07:32,378 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.708890676498413 seconds
+2018-01-26 15:07:32,394 - root - INFO - ###############################  End  ###############################
+2018-01-26 15:09:46,379 - root - INFO - ############################### START ###############################
+2018-01-26 15:10:03,410 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.031428813934326 seconds
+2018-01-26 15:10:03,770 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3437683582305908 seconds
+2018-01-26 15:10:04,480 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.7105677127838135 seconds
+2018-01-26 15:10:04,565 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07705450057983398 seconds
+2018-01-26 15:10:04,646 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0740501880645752 seconds
+2018-01-26 15:10:04,753 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.09606790542602539 seconds
+2018-01-26 15:10:09,821 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.06003689765930176 seconds
+2018-01-26 15:10:09,863 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03302335739135742 seconds
+2018-01-26 15:10:09,957 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.0840601921081543 seconds
+2018-01-26 15:10:11,253 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.2849507331848145 seconds
+2018-01-26 15:10:11,414 - root - INFO - SUCCESS    Switch to frame out, Spend 0.15210747718811035 seconds
+2018-01-26 15:10:11,439 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.013008832931518555 seconds
+2018-01-26 15:10:11,470 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.023016929626464844 seconds
+2018-01-26 15:10:15,323 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8107547760009766 seconds
+2018-01-26 15:10:15,323 - root - INFO - ###############################  End  ###############################
+2018-01-26 15:11:24,029 - root - INFO - ############################### START ###############################
+2018-01-26 15:11:41,489 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.459930896759033 seconds
+2018-01-26 15:11:41,770 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2812674045562744 seconds
+2018-01-26 15:11:42,667 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.8807263374328613 seconds
+2018-01-26 15:11:42,747 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07405424118041992 seconds
+2018-01-26 15:11:42,843 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08306002616882324 seconds
+2018-01-26 15:11:42,920 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07005023956298828 seconds
+2018-01-26 15:11:47,992 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.060042381286621094 seconds
+2018-01-26 15:11:48,053 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.05103707313537598 seconds
+2018-01-26 15:11:48,162 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.09906983375549316 seconds
+2018-01-26 15:11:49,289 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.118337869644165 seconds
+2018-01-26 15:11:49,415 - root - INFO - SUCCESS    Switch to frame out, Spend 0.11908507347106934 seconds
+2018-01-26 15:11:49,757 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.33223533630371094 seconds
+2018-01-26 15:11:50,013 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.25017666816711426 seconds
+2018-01-26 15:11:52,183 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[3]/td[1]/input>, Spend 0.04603242874145508 seconds
+2018-01-26 15:11:52,272 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[8]/td[1]/input>, Spend 0.03502345085144043 seconds
+2018-01-26 15:11:53,565 - root - INFO - SUCCESS    Clicked element: <name->btnRemoveUser>, Spend 0.28720521926879883 seconds
+2018-01-26 15:11:58,554 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7047817707061768 seconds
+2018-01-26 15:11:58,554 - root - INFO - ###############################  End  ###############################
+2018-01-26 15:16:34,340 - root - INFO - ############################### START ###############################
+2018-01-26 15:16:51,232 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.891530990600586 seconds
+2018-01-26 15:16:51,482 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2343747615814209 seconds
+2018-01-26 15:16:52,278 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.7957789897918701 seconds
+2018-01-26 15:16:52,342 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.05903887748718262 seconds
+2018-01-26 15:16:52,412 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06303262710571289 seconds
+2018-01-26 15:16:52,538 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.1220860481262207 seconds
+2018-01-26 15:16:57,575 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.025021791458129883 seconds
+2018-01-26 15:16:57,624 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04102778434753418 seconds
+2018-01-26 15:16:57,692 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.06304550170898438 seconds
+2018-01-26 15:16:58,829 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1321296691894531 seconds
+2018-01-26 15:16:58,966 - root - INFO - SUCCESS    Switch to frame out, Spend 0.12511324882507324 seconds
+2018-01-26 15:16:59,350 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.3732643127441406 seconds
+2018-01-26 15:16:59,630 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.27119016647338867 seconds
+2018-01-26 15:17:01,893 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[3]/td[1]/input>, Spend 0.06304502487182617 seconds
+2018-01-26 15:17:02,040 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[8]/td[1]/input>, Spend 0.060042619705200195 seconds
+2018-01-26 15:17:03,226 - root - INFO - SUCCESS    Clicked element: <name->btnRemoveUser>, Spend 0.17612528800964355 seconds
+2018-01-26 15:17:03,342 - root - INFO - SUCCESS    Accept warning box, Spend 0.10707569122314453 seconds
+2018-01-26 15:17:08,625 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2252156734466553 seconds
+2018-01-26 15:17:08,625 - root - INFO - ###############################  End  ###############################
+2018-01-26 15:52:02,520 - root - INFO - ############################### START ###############################
+2018-01-26 15:52:20,203 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.677745580673218 seconds
+2018-01-26 15:52:20,514 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.30231642723083496 seconds
+2018-01-26 15:52:21,342 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.803246021270752 seconds
+2018-01-26 15:52:21,426 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07705521583557129 seconds
+2018-01-26 15:52:21,597 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.1621088981628418 seconds
+2018-01-26 15:52:21,749 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.14223051071166992 seconds
+2018-01-26 15:52:31,566 - root - INFO - FAIL    Unable to click element: <xpath->html/body/div[10]/div[1]/a>, Spend 4.804126501083374 seconds
+2018-01-26 15:52:34,592 - root - INFO - ############################### START ###############################
+2018-01-26 15:52:51,325 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.72561550140381 seconds
+2018-01-26 15:52:51,718 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.383270263671875 seconds
+2018-01-26 15:52:52,736 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0061087608337402 seconds
+2018-01-26 15:52:52,897 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.15410876274108887 seconds
+2018-01-26 15:52:53,009 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.10407471656799316 seconds
+2018-01-26 15:52:53,190 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.1751253604888916 seconds
+2018-01-26 15:52:58,224 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.02701878547668457 seconds
+2018-01-26 15:52:58,265 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03502464294433594 seconds
+2018-01-26 15:52:58,329 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.05604195594787598 seconds
+2018-01-26 15:52:59,459 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.123091697692871 seconds
+2018-01-26 15:52:59,597 - root - INFO - SUCCESS    Switch to frame out, Spend 0.13227558135986328 seconds
+2018-01-26 15:52:59,932 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.32222795486450195 seconds
+2018-01-26 15:53:00,440 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.4973561763763428 seconds
+2018-01-26 15:53:02,573 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[6]/td[7]/div/a[2]/img>, Spend 0.12208747863769531 seconds
+2018-01-26 15:53:04,711 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaohong, Spend 0.13109111785888672 seconds
+2018-01-26 15:53:04,805 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[5]/div[3]/div/button[2]>, Spend 0.08806061744689941 seconds
+2018-01-26 15:53:07,071 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2603840827941895 seconds
+2018-01-26 15:53:07,086 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:07:29,668 - root - INFO - ############################### START ###############################
+2018-01-26 16:07:44,593 - root - INFO - ############################### START ###############################
+2018-01-26 16:07:54,695 - root - INFO - ############################### START ###############################
+2018-01-26 16:08:09,495 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.799757719039917 seconds
+2018-01-26 16:08:09,510 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0 seconds
+2018-01-26 16:08:10,167 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6401135921478271 seconds
+2018-01-26 16:08:10,259 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08205842971801758 seconds
+2018-01-26 16:08:10,752 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.48551034927368164 seconds
+2018-01-26 16:08:10,832 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07405328750610352 seconds
+2018-01-26 16:08:15,883 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.04303121566772461 seconds
+2018-01-26 16:08:15,926 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03702569007873535 seconds
+2018-01-26 16:08:15,954 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.021015167236328125 seconds
+2018-01-26 16:08:17,026 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.0663526058197021 seconds
+2018-01-26 16:08:17,243 - root - INFO - SUCCESS    Switch to frame out, Spend 0.20714759826660156 seconds
+2018-01-26 16:08:17,524 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.26918911933898926 seconds
+2018-01-26 16:08:17,779 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.2491765022277832 seconds
+2018-01-26 16:08:19,922 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[6]/td[7]/div/a[2]/img>, Spend 0.11406660079956055 seconds
+2018-01-26 16:08:22,232 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaohong, Spend 0.3042173385620117 seconds
+2018-01-26 16:08:22,312 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[5]/div[3]/div/button[2]>, Spend 0.07505273818969727 seconds
+2018-01-26 16:08:24,118 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7983813285827637 seconds
+2018-01-26 16:08:24,133 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:16:35,695 - root - INFO - ############################### START ###############################
+2018-01-26 16:16:53,384 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.689448833465576 seconds
+2018-01-26 16:16:53,416 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0 seconds
+2018-01-26 16:16:53,998 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5826601982116699 seconds
+2018-01-26 16:16:54,085 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08005547523498535 seconds
+2018-01-26 16:16:54,219 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.12508773803710938 seconds
+2018-01-26 16:16:54,292 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0670480728149414 seconds
+2018-01-26 16:16:59,382 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.08305859565734863 seconds
+2018-01-26 16:16:59,434 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04503297805786133 seconds
+2018-01-26 16:16:59,753 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.3092207908630371 seconds
+2018-01-26 16:17:00,885 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1231491565704346 seconds
+2018-01-26 16:17:01,094 - root - INFO - SUCCESS    Switch to frame out, Spend 0.20115137100219727 seconds
+2018-01-26 16:17:01,520 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.41329026222229004 seconds
+2018-01-26 16:17:01,648 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.11209273338317871 seconds
+2018-01-26 16:17:03,764 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[6]/td[7]/div/a[2]/img>, Spend 0.10607528686523438 seconds
+2018-01-26 16:17:05,836 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaohong, Spend 0.06503176689147949 seconds
+2018-01-26 16:17:05,922 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[5]/div[3]/div/button[2]>, Spend 0.08105635643005371 seconds
+2018-01-26 16:17:07,649 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7204666137695312 seconds
+2018-01-26 16:17:07,649 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:18:28,716 - root - INFO - ############################### START ###############################
+2018-01-26 16:18:45,480 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.748108863830566 seconds
+2018-01-26 16:18:45,793 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968785762786865 seconds
+2018-01-26 16:18:46,405 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5963306427001953 seconds
+2018-01-26 16:18:46,504 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08705902099609375 seconds
+2018-01-26 16:18:46,592 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07805752754211426 seconds
+2018-01-26 16:18:46,689 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08806419372558594 seconds
+2018-01-26 16:18:51,732 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.03402447700500488 seconds
+2018-01-26 16:18:51,779 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04203033447265625 seconds
+2018-01-26 16:18:51,849 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.057038307189941406 seconds
+2018-01-26 16:18:52,962 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1074278354644775 seconds
+2018-01-26 16:18:53,181 - root - INFO - SUCCESS    Switch to frame out, Spend 0.21114897727966309 seconds
+2018-01-26 16:18:53,434 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.2421705722808838 seconds
+2018-01-26 16:18:53,701 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.2591841220855713 seconds
+2018-01-26 16:18:55,831 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[6]/td[7]/div/a[2]/img>, Spend 0.12208795547485352 seconds
+2018-01-26 16:18:57,932 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaohong, Spend 0.08800649642944336 seconds
+2018-01-26 16:18:58,013 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[5]/div[3]/div/button[2]>, Spend 0.0740516185760498 seconds
+2018-01-26 16:18:58,026 - root - INFO - SUCCESS    Judge the alert available, Spend 0.00800323486328125 seconds
+2018-01-26 16:18:59,675 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.6421751976013184 seconds
+2018-01-26 16:18:59,690 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:23:05,232 - root - INFO - ############################### START ###############################
+2018-01-26 16:23:21,886 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.653945922851562 seconds
+2018-01-26 16:23:22,136 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2343747615814209 seconds
+2018-01-26 16:23:22,920 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.7678673267364502 seconds
+2018-01-26 16:23:23,007 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0790557861328125 seconds
+2018-01-26 16:23:23,099 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08406996726989746 seconds
+2018-01-26 16:23:23,211 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.10207152366638184 seconds
+2018-01-26 16:23:28,267 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.045975446701049805 seconds
+2018-01-26 16:23:28,315 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.04203462600708008 seconds
+2018-01-26 16:23:28,382 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.06004142761230469 seconds
+2018-01-26 16:23:29,546 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1583163738250732 seconds
+2018-01-26 16:23:29,759 - root - INFO - SUCCESS    Switch to frame out, Spend 0.20618009567260742 seconds
+2018-01-26 16:23:30,030 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.2541794776916504 seconds
+2018-01-26 16:23:30,238 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.19814491271972656 seconds
+2018-01-26 16:23:32,425 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.1680903434753418 seconds
+2018-01-26 16:23:32,515 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.08205938339233398 seconds
+2018-01-26 16:23:32,699 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.17412304878234863 seconds
+2018-01-26 16:23:32,840 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.1340959072113037 seconds
+2018-01-26 16:23:32,910 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.06104636192321777 seconds
+2018-01-26 16:23:33,015 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.09707117080688477 seconds
+2018-01-26 16:23:33,108 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.0840597152709961 seconds
+2018-01-26 16:23:33,218 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.1030733585357666 seconds
+2018-01-26 16:23:36,351 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.08105587959289551 seconds
+2018-01-26 16:23:36,419 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaopang, Spend 0.06304502487182617 seconds
+2018-01-26 16:23:36,476 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 小胖, Spend 0.05203700065612793 seconds
+2018-01-26 16:23:36,528 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04703402519226074 seconds
+2018-01-26 16:23:36,575 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.0410313606262207 seconds
+2018-01-26 16:23:36,638 - root - INFO - SUCCESS    Clear and type element: <id->email> content: xiaopang@163.com, Spend 0.055039405822753906 seconds
+2018-01-26 16:23:36,699 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18855554444, Spend 0.0550384521484375 seconds
+2018-01-26 16:23:36,780 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.07704377174377441 seconds
+2018-01-26 16:23:42,036 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.218604326248169 seconds
+2018-01-26 16:23:42,052 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:23:42,067 - root - INFO - ############################### START ###############################
+2018-01-26 16:23:59,061 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.97810173034668 seconds
+2018-01-26 16:23:59,373 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968757152557373 seconds
+2018-01-26 16:24:00,123 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.734311580657959 seconds
+2018-01-26 16:24:00,213 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08305859565734863 seconds
+2018-01-26 16:24:00,294 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07605409622192383 seconds
+2018-01-26 16:24:00,393 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.09206652641296387 seconds
+2018-01-26 16:24:05,440 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.03997230529785156 seconds
+2018-01-26 16:24:05,480 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03402447700500488 seconds
+2018-01-26 16:24:05,559 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.07004904747009277 seconds
+2018-01-26 16:24:06,646 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.0801522731781006 seconds
+2018-01-26 16:24:06,797 - root - INFO - SUCCESS    Switch to frame out, Spend 0.1410996913909912 seconds
+2018-01-26 16:24:07,352 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.5413837432861328 seconds
+2018-01-26 16:24:07,565 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.20714664459228516 seconds
+2018-01-26 16:24:09,716 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[3]/td[1]/input>, Spend 0.054036855697631836 seconds
+2018-01-26 16:24:09,813 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[8]/td[1]/input>, Spend 0.03602480888366699 seconds
+2018-01-26 16:24:10,997 - root - INFO - SUCCESS    Clicked element: <name->btnRemoveUser>, Spend 0.17711281776428223 seconds
+2018-01-26 16:24:11,030 - root - INFO - SUCCESS    Accept warning box, Spend 0.026018381118774414 seconds
+2018-01-26 16:24:15,908 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.9018855094909668 seconds
+2018-01-26 16:24:15,908 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:24:15,924 - root - INFO - ############################### START ###############################
+2018-01-26 16:24:32,145 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.221198320388794 seconds
+2018-01-26 16:24:32,161 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0 seconds
+2018-01-26 16:24:32,607 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.44558119773864746 seconds
+2018-01-26 16:24:32,683 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.067047119140625 seconds
+2018-01-26 16:24:32,743 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05504012107849121 seconds
+2018-01-26 16:24:32,882 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.132094144821167 seconds
+2018-01-26 16:24:37,918 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.02296733856201172 seconds
+2018-01-26 16:24:37,981 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.05602669715881348 seconds
+2018-01-26 16:24:38,038 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.051035404205322266 seconds
+2018-01-26 16:24:39,227 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.182081699371338 seconds
+2018-01-26 16:24:39,402 - root - INFO - SUCCESS    Switch to frame out, Spend 0.16611504554748535 seconds
+2018-01-26 16:24:39,773 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.3572516441345215 seconds
+2018-01-26 16:24:40,086 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.3012120723724365 seconds
+2018-01-26 16:24:42,212 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[6]/td[7]/div/a[2]/img>, Spend 0.11506986618041992 seconds
+2018-01-26 16:24:44,318 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaohong, Spend 0.10207438468933105 seconds
+2018-01-26 16:24:44,398 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[5]/div[3]/div/button[2]>, Spend 0.07505249977111816 seconds
+2018-01-26 16:24:44,412 - root - INFO - SUCCESS    Judge the alert available, Spend 0.00800633430480957 seconds
+2018-01-26 16:24:46,191 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7750482559204102 seconds
+2018-01-26 16:24:46,191 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:24:46,191 - root - INFO - ############################### START ###############################
+2018-01-26 16:25:02,127 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.918205499649048 seconds
+2018-01-26 16:25:02,377 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2343745231628418 seconds
+2018-01-26 16:25:02,969 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5758652687072754 seconds
+2018-01-26 16:25:03,040 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.0660562515258789 seconds
+2018-01-26 16:25:03,096 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.052037715911865234 seconds
+2018-01-26 16:25:03,154 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.050035953521728516 seconds
+2018-01-26 16:25:03,179 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.021016359329223633 seconds
+2018-01-26 16:25:05,241 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.054691791534424 seconds
+2018-01-26 16:25:05,257 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:25:05,257 - root - INFO - ############################### START ###############################
+2018-01-26 16:25:19,966 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.708927154541016 seconds
+2018-01-26 16:25:20,294 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3281276226043701 seconds
+2018-01-26 16:25:21,095 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.7844083309173584 seconds
+2018-01-26 16:25:21,174 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07305121421813965 seconds
+2018-01-26 16:25:21,249 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.06604719161987305 seconds
+2018-01-26 16:25:21,324 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06804966926574707 seconds
+2018-01-26 16:25:21,355 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.02301788330078125 seconds
+2018-01-26 16:25:23,104 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7410008907318115 seconds
+2018-01-26 16:25:23,120 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:25:23,135 - root - INFO - ############################### START ###############################
+2018-01-26 16:25:37,902 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.766826152801514 seconds
+2018-01-26 16:25:38,215 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.296877384185791 seconds
+2018-01-26 16:25:38,749 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5191655158996582 seconds
+2018-01-26 16:25:38,830 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07105112075805664 seconds
+2018-01-26 16:25:38,901 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06704878807067871 seconds
+2018-01-26 16:25:38,960 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05103611946105957 seconds
+2018-01-26 16:25:38,989 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.023017406463623047 seconds
+2018-01-26 16:25:40,894 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.9000461101531982 seconds
+2018-01-26 16:25:40,909 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:25:40,909 - root - INFO - ############################### START ###############################
+2018-01-26 16:25:56,028 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.118974447250366 seconds
+2018-01-26 16:25:56,497 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.4687540531158447 seconds
+2018-01-26 16:25:57,723 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.2099487781524658 seconds
+2018-01-26 16:25:58,340 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.6081035137176514 seconds
+2018-01-26 16:25:58,405 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.0520327091217041 seconds
+2018-01-26 16:25:58,476 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06704878807067871 seconds
+2018-01-26 16:25:58,497 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015012264251708984 seconds
+2018-01-26 16:26:00,559 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0572311878204346 seconds
+2018-01-26 16:26:00,559 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:26:00,575 - root - INFO - ############################### START ###############################
+2018-01-26 16:26:16,129 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.554535865783691 seconds
+2018-01-26 16:26:16,388 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.24326348304748535 seconds
+2018-01-26 16:26:17,171 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.7677485942840576 seconds
+2018-01-26 16:26:17,265 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08305907249450684 seconds
+2018-01-26 16:26:17,343 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07305645942687988 seconds
+2018-01-26 16:26:17,441 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08906412124633789 seconds
+2018-01-26 16:26:19,498 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.04997873306274414 seconds
+2018-01-26 16:26:21,351 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8430979251861572 seconds
+2018-01-26 16:26:21,367 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:26:25,763 - root - INFO - 发送邮件成功
+2018-01-26 16:54:16,287 - root - INFO - ############################### START ###############################
+2018-01-26 16:54:43,544 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 27.248668909072876 seconds
+2018-01-26 16:54:43,899 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3473527431488037 seconds
+2018-01-26 16:54:45,998 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 2.0921435356140137 seconds
+2018-01-26 16:54:46,167 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.16213440895080566 seconds
+2018-01-26 16:54:46,281 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.10507774353027344 seconds
+2018-01-26 16:54:46,364 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07805752754211426 seconds
+2018-01-26 16:54:48,478 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.10807514190673828 seconds
+2018-01-26 16:54:50,069 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.5845937728881836 seconds
+2018-01-26 16:54:50,075 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:55:08,293 - root - INFO - ############################### START ###############################
+2018-01-26 16:55:24,288 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.988930940628052 seconds
+2018-01-26 16:55:24,600 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3125016689300537 seconds
+2018-01-26 16:55:25,571 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.9534745216369629 seconds
+2018-01-26 16:55:25,640 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.06404519081115723 seconds
+2018-01-26 16:55:25,727 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.07605481147766113 seconds
+2018-01-26 16:55:25,797 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06304430961608887 seconds
+2018-01-26 16:55:25,826 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.020014286041259766 seconds
+2018-01-26 16:55:27,648 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8155899047851562 seconds
+2018-01-26 16:55:27,680 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:55:27,680 - root - INFO - ############################### START ###############################
+2018-01-26 16:55:44,029 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.333558320999146 seconds
+2018-01-26 16:55:44,560 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.5156276226043701 seconds
+2018-01-26 16:55:45,252 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6915667057037354 seconds
+2018-01-26 16:55:45,333 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07104969024658203 seconds
+2018-01-26 16:55:45,508 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.16211342811584473 seconds
+2018-01-26 16:55:45,552 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.03802776336669922 seconds
+2018-01-26 16:55:45,583 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.02001500129699707 seconds
+2018-01-26 16:55:47,353 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7654149532318115 seconds
+2018-01-26 16:55:47,353 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:55:47,353 - root - INFO - ############################### START ###############################
+2018-01-26 16:56:06,603 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 19.234477519989014 seconds
+2018-01-26 16:56:06,853 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2343757152557373 seconds
+2018-01-26 16:56:07,437 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5822916030883789 seconds
+2018-01-26 16:56:07,514 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07005095481872559 seconds
+2018-01-26 16:56:07,606 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08405852317810059 seconds
+2018-01-26 16:56:07,670 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05103302001953125 seconds
+2018-01-26 16:56:07,704 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.02401566505432129 seconds
+2018-01-26 16:56:09,264 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.5566926002502441 seconds
+2018-01-26 16:56:09,280 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:56:09,280 - root - INFO - ############################### START ###############################
+2018-01-26 16:56:25,894 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.59820556640625 seconds
+2018-01-26 16:56:26,191 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.296877384185791 seconds
+2018-01-26 16:56:27,011 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.8043034076690674 seconds
+2018-01-26 16:56:27,073 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0625002384185791 seconds
+2018-01-26 16:56:27,183 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.0937509536743164 seconds
+2018-01-26 16:56:27,604 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.42188072204589844 seconds
+2018-01-26 16:56:27,745 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.125 seconds
+2018-01-26 16:56:30,073 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.328148126602173 seconds
+2018-01-26 16:56:30,073 - root - INFO - ###############################  End  ###############################
+2018-01-26 16:56:30,089 - root - INFO - ############################### START ###############################
+2018-01-26 16:56:45,006 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.901355028152466 seconds
+2018-01-26 16:56:45,303 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968766689300537 seconds
+2018-01-26 16:56:46,140 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.8204188346862793 seconds
+2018-01-26 16:56:46,224 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0790567398071289 seconds
+2018-01-26 16:56:46,314 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08305954933166504 seconds
+2018-01-26 16:56:46,453 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.12926697731018066 seconds
+2018-01-26 16:56:49,894 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 1.4340617656707764 seconds
+2018-01-26 16:56:52,120 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.208329677581787 seconds
+2018-01-26 16:56:52,120 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:03:31,935 - root - INFO - ############################### START ###############################
+2018-01-26 17:03:53,087 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 21.151814460754395 seconds
+2018-01-26 17:03:53,571 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.4843740463256836 seconds
+2018-01-26 17:03:54,274 - root - INFO - ############################### START ###############################
+2018-01-26 17:04:16,921 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 22.631160259246826 seconds
+2018-01-26 17:04:16,999 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.07812714576721191 seconds
+2018-01-26 17:04:16,999 - root - INFO - ############################### START ###############################
+2018-01-26 17:04:40,068 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 23.053147315979004 seconds
+2018-01-26 17:04:40,412 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2187516689300537 seconds
+2018-01-26 17:04:40,459 - root - INFO - ############################### START ###############################
+2018-01-26 17:05:45,824 - root - INFO - ############################### START ###############################
+2018-01-26 17:06:02,256 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.416391134262085 seconds
+2018-01-26 17:06:02,568 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968764305114746 seconds
+2018-01-26 17:16:39,354 - root - INFO - ############################### START ###############################
+2018-01-26 17:16:52,954 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 13.59963083267212 seconds
+2018-01-26 17:16:53,360 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3906269073486328 seconds
+2018-01-26 17:16:54,290 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.913121223449707 seconds
+2018-01-26 17:16:54,442 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.14458322525024414 seconds
+2018-01-26 17:16:54,767 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.3182253837585449 seconds
+2018-01-26 17:16:54,882 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.10707616806030273 seconds
+2018-01-26 17:16:59,936 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.04998326301574707 seconds
+2018-01-26 17:16:59,973 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.032022953033447266 seconds
+2018-01-26 17:17:00,051 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.0740506649017334 seconds
+2018-01-26 17:17:01,278 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.2188644409179688 seconds
+2018-01-26 17:17:01,842 - root - INFO - SUCCESS    Switch to frame out, Spend 0.5533921718597412 seconds
+2018-01-26 17:17:02,328 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.477337121963501 seconds
+2018-01-26 17:17:02,815 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.469332218170166 seconds
+2018-01-26 17:17:05,057 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.19714069366455078 seconds
+2018-01-26 17:17:05,140 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.0720515251159668 seconds
+2018-01-26 17:17:05,193 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.04903531074523926 seconds
+2018-01-26 17:17:05,314 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.11308073997497559 seconds
+2018-01-26 17:17:05,459 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.13809919357299805 seconds
+2018-01-26 17:17:05,576 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.11007857322692871 seconds
+2018-01-26 17:17:05,648 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.06604933738708496 seconds
+2018-01-26 17:17:05,850 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.19514012336730957 seconds
+2018-01-26 17:17:11,473 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.1464200019836426 seconds
+2018-01-26 17:17:11,489 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:17:11,520 - root - INFO - ############################### START ###############################
+2018-01-26 17:17:16,207 - root - INFO - ############################### START ###############################
+2018-01-26 17:17:31,385 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.162221908569336 seconds
+2018-01-26 17:17:31,620 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2187516689300537 seconds
+2018-01-26 17:17:32,266 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6467247009277344 seconds
+2018-01-26 17:17:32,413 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.1340947151184082 seconds
+2018-01-26 17:17:32,574 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.1461021900177002 seconds
+2018-01-26 17:17:32,660 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08005762100219727 seconds
+2018-01-26 17:17:37,697 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.030007600784301758 seconds
+2018-01-26 17:17:37,742 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.036026716232299805 seconds
+2018-01-26 17:17:37,802 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.0550379753112793 seconds
+2018-01-26 17:17:39,063 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.2518868446350098 seconds
+2018-01-26 17:17:39,194 - root - INFO - SUCCESS    Switch to frame out, Spend 0.12508773803710938 seconds
+2018-01-26 17:17:39,225 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.017011404037475586 seconds
+2018-01-26 17:17:39,245 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.014009237289428711 seconds
+2018-01-26 17:17:41,478 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.22415828704833984 seconds
+2018-01-26 17:17:41,792 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.306215763092041 seconds
+2018-01-26 17:17:42,167 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.3692624568939209 seconds
+2018-01-26 17:17:42,244 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06904911994934082 seconds
+2018-01-26 17:17:42,302 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.05203747749328613 seconds
+2018-01-26 17:17:42,380 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.07104921340942383 seconds
+2018-01-26 17:17:42,444 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.05904221534729004 seconds
+2018-01-26 17:17:42,578 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.12809300422668457 seconds
+2018-01-26 17:17:45,747 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.09306526184082031 seconds
+2018-01-26 17:17:45,820 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaopang, Spend 0.057039737701416016 seconds
+2018-01-26 17:17:45,906 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 小胖, Spend 0.08005714416503906 seconds
+2018-01-26 17:17:45,971 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.060044288635253906 seconds
+2018-01-26 17:17:46,019 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.0430302619934082 seconds
+2018-01-26 17:17:46,082 - root - INFO - SUCCESS    Clear and type element: <id->email> content: xiaopang@163.com, Spend 0.056040048599243164 seconds
+2018-01-26 17:17:46,144 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18855554444, Spend 0.05704092979431152 seconds
+2018-01-26 17:17:46,221 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.07104992866516113 seconds
+2018-01-26 17:17:51,228 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8773305416107178 seconds
+2018-01-26 17:17:51,245 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:17:51,262 - root - INFO - ############################### START ###############################
+2018-01-26 17:18:06,792 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.514296293258667 seconds
+2018-01-26 17:18:07,089 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2812511920928955 seconds
+2018-01-26 17:18:07,516 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4272756576538086 seconds
+2018-01-26 17:18:07,608 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08506035804748535 seconds
+2018-01-26 17:18:07,742 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.12108612060546875 seconds
+2018-01-26 17:18:07,810 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.061043739318847656 seconds
+2018-01-26 17:18:12,840 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.02200484275817871 seconds
+2018-01-26 17:18:12,876 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.03001999855041504 seconds
+2018-01-26 17:18:12,905 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.022017478942871094 seconds
+2018-01-26 17:18:14,045 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.1308002471923828 seconds
+2018-01-26 17:18:14,231 - root - INFO - SUCCESS    Switch to frame out, Spend 0.18112850189208984 seconds
+2018-01-26 17:18:14,607 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.36826157569885254 seconds
+2018-01-26 17:18:14,711 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.09707832336425781 seconds
+2018-01-26 17:18:16,829 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[3]/td[1]/input>, Spend 0.044031381607055664 seconds
+2018-01-26 17:18:16,944 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[8]/td[1]/input>, Spend 0.060042381286621094 seconds
+2018-01-26 17:18:18,205 - root - INFO - SUCCESS    Clicked element: <name->btnRemoveUser>, Spend 0.2521798610687256 seconds
+2018-01-26 17:18:18,263 - root - INFO - SUCCESS    Accept warning box, Spend 0.04903554916381836 seconds
+2018-01-26 17:18:23,297 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0517663955688477 seconds
+2018-01-26 17:18:23,312 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:18:23,312 - root - INFO - ############################### START ###############################
+2018-01-26 17:18:39,002 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.689686059951782 seconds
+2018-01-26 17:18:39,236 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.23437809944152832 seconds
+2018-01-26 17:18:39,841 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6040070056915283 seconds
+2018-01-26 17:18:39,908 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.06104326248168945 seconds
+2018-01-26 17:18:39,977 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06304383277893066 seconds
+2018-01-26 17:18:40,047 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06504201889038086 seconds
+2018-01-26 17:18:45,094 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.03397393226623535 seconds
+2018-01-26 17:18:45,134 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.033023834228515625 seconds
+2018-01-26 17:18:45,192 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.05303788185119629 seconds
+2018-01-26 17:18:46,448 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.246882677078247 seconds
+2018-01-26 17:18:46,594 - root - INFO - SUCCESS    Switch to frame out, Spend 0.14010119438171387 seconds
+2018-01-26 17:18:46,620 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.015011310577392578 seconds
+2018-01-26 17:18:46,651 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.025017738342285156 seconds
+2018-01-26 17:18:48,778 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[6]/td[7]/div/a[2]/img>, Spend 0.12004256248474121 seconds
+2018-01-26 17:18:50,896 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaohong, Spend 0.1090247631072998 seconds
+2018-01-26 17:18:50,971 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[5]/div[3]/div/button[2]>, Spend 0.07105088233947754 seconds
+2018-01-26 17:18:50,989 - root - INFO - SUCCESS    Judge the alert available, Spend 0.013999223709106445 seconds
+2018-01-26 17:18:52,730 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7346489429473877 seconds
+2018-01-26 17:18:52,746 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:18:52,761 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:07,981 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.20380425453186 seconds
+2018-01-26 17:19:08,278 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2812540531158447 seconds
+2018-01-26 17:19:08,853 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5740354061126709 seconds
+2018-01-26 17:19:08,933 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07105207443237305 seconds
+2018-01-26 17:19:09,014 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.0720524787902832 seconds
+2018-01-26 17:19:09,081 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.061043500900268555 seconds
+2018-01-26 17:19:09,122 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.03302431106567383 seconds
+2018-01-26 17:19:10,769 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.640533208847046 seconds
+2018-01-26 17:19:10,769 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:19:10,785 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:23,465 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 12.679922342300415 seconds
+2018-01-26 17:19:23,777 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968764305114746 seconds
+2018-01-26 17:19:24,231 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4367704391479492 seconds
+2018-01-26 17:19:24,307 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.06804847717285156 seconds
+2018-01-26 17:19:24,385 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.06904864311218262 seconds
+2018-01-26 17:19:24,454 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.062044620513916016 seconds
+2018-01-26 17:19:24,493 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.029021501541137695 seconds
+2018-01-26 17:19:26,024 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.5260331630706787 seconds
+2018-01-26 17:19:26,024 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:19:26,024 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:40,993 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.95333218574524 seconds
+2018-01-26 17:19:41,311 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.30268216133117676 seconds
+2018-01-26 17:19:41,928 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6007094383239746 seconds
+2018-01-26 17:19:41,974 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.046866416931152344 seconds
+2018-01-26 17:19:42,053 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0625004768371582 seconds
+2018-01-26 17:19:42,115 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0625009536743164 seconds
+2018-01-26 17:19:42,146 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015625476837158203 seconds
+2018-01-26 17:19:43,903 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7569613456726074 seconds
+2018-01-26 17:19:43,903 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:19:43,919 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:59,964 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.045240879058838 seconds
+2018-01-26 17:20:00,199 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2187502384185791 seconds
+2018-01-26 17:20:00,703 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.48833274841308594 seconds
+2018-01-26 17:20:00,798 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08606076240539551 seconds
+2018-01-26 17:20:00,880 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.07505297660827637 seconds
+2018-01-26 17:20:00,960 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07505297660827637 seconds
+2018-01-26 17:20:01,979 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.014962196350097656 seconds
+2018-01-26 17:20:03,661 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.6774566173553467 seconds
+2018-01-26 17:20:03,677 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:20:03,677 - root - INFO - ############################### START ###############################
+2018-01-26 17:20:16,071 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 12.394933462142944 seconds
+2018-01-26 17:20:16,368 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968771457672119 seconds
+2018-01-26 17:20:16,921 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5528879165649414 seconds
+2018-01-26 17:20:17,006 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07805514335632324 seconds
+2018-01-26 17:20:17,092 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08005595207214355 seconds
+2018-01-26 17:20:17,194 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08705997467041016 seconds
+2018-01-26 17:20:19,222 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.017012357711791992 seconds
+2018-01-26 17:20:21,348 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.122246503829956 seconds
+2018-01-26 17:20:21,364 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:20:25,743 - root - INFO - 发送邮件成功
+2018-01-26 17:27:34,396 - root - INFO - ############################### START ###############################
+2018-01-26 17:27:52,960 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.564409017562866 seconds
+2018-01-26 17:27:53,282 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.31713342666625977 seconds
+2018-01-26 17:27:54,192 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.9090771675109863 seconds
+2018-01-26 17:27:54,274 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.07305192947387695 seconds
+2018-01-26 17:27:54,454 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.16912007331848145 seconds
+2018-01-26 17:27:54,817 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.35425281524658203 seconds
+2018-01-26 17:27:59,856 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.02801823616027832 seconds
+2018-01-26 17:27:59,894 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.031021833419799805 seconds
+2018-01-26 17:27:59,917 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.01701211929321289 seconds
+2018-01-26 17:28:01,743 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.821291208267212 seconds
+2018-01-26 17:28:01,977 - root - INFO - SUCCESS    Switch to frame out, Spend 0.227158784866333 seconds
+2018-01-26 17:28:02,019 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.03502368927001953 seconds
+2018-01-26 17:28:02,624 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.5884158611297607 seconds
+2018-01-26 17:28:04,795 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.1590557098388672 seconds
+2018-01-26 17:28:04,872 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.07005095481872559 seconds
+2018-01-26 17:28:04,988 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.10707521438598633 seconds
+2018-01-26 17:28:05,053 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05904197692871094 seconds
+2018-01-26 17:28:05,117 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.058042049407958984 seconds
+2018-01-26 17:28:05,190 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.06804633140563965 seconds
+2018-01-26 17:28:05,259 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.06304478645324707 seconds
+2018-01-26 17:28:05,360 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.09306645393371582 seconds
+2018-01-26 17:28:08,953 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.08105731010437012 seconds
+2018-01-26 17:28:09,032 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaopang, Spend 0.06404447555541992 seconds
+2018-01-26 17:28:09,083 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 小胖, Spend 0.04503178596496582 seconds
+2018-01-26 17:28:09,135 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04603242874145508 seconds
+2018-01-26 17:28:09,181 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.04002714157104492 seconds
+2018-01-26 17:28:09,246 - root - INFO - SUCCESS    Clear and type element: <id->email> content: xiaopang@163.com, Spend 0.05904197692871094 seconds
+2018-01-26 17:28:09,303 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18855554444, Spend 0.05103659629821777 seconds
+2018-01-26 17:28:09,378 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.06905293464660645 seconds
+2018-01-26 17:28:14,410 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8358588218688965 seconds
+2018-01-26 17:28:14,415 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:28:18,157 - root - INFO - 发送邮件成功
+2018-01-26 17:29:46,946 - root - INFO - ############################### START ###############################
+2018-01-26 17:30:04,891 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.940322637557983 seconds
+2018-01-26 17:30:04,970 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.07899808883666992 seconds
+2018-01-26 17:30:05,410 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4401085376739502 seconds
+2018-01-26 17:30:05,516 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08906388282775879 seconds
+2018-01-26 17:30:05,701 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.1751248836517334 seconds
+2018-01-26 17:30:05,799 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0910646915435791 seconds
+2018-01-26 17:30:11,333 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.5273728370666504 seconds
+2018-01-26 17:30:11,467 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.12308526039123535 seconds
+2018-01-26 17:30:11,566 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.0840611457824707 seconds
+2018-01-26 17:30:12,875 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.293916940689087 seconds
+2018-01-26 17:30:13,096 - root - INFO - SUCCESS    Switch to frame out, Spend 0.21014833450317383 seconds
+2018-01-26 17:30:13,867 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.7605376243591309 seconds
+2018-01-26 17:30:14,155 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.2761983871459961 seconds
+2018-01-26 17:30:16,363 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.1991407871246338 seconds
+2018-01-26 17:30:16,433 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.06204414367675781 seconds
+2018-01-26 17:30:16,488 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.05003643035888672 seconds
+2018-01-26 17:30:16,558 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06404447555541992 seconds
+2018-01-26 17:30:16,614 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.05003643035888672 seconds
+2018-01-26 17:30:16,688 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.06804990768432617 seconds
+2018-01-26 17:30:16,745 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.05103611946105957 seconds
+2018-01-26 17:30:16,854 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.10408401489257812 seconds
+2018-01-26 17:30:20,292 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.02501845359802246 seconds
+2018-01-26 17:30:20,371 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaopang, Spend 0.07305240631103516 seconds
+2018-01-26 17:30:20,424 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 小胖, Spend 0.04803586006164551 seconds
+2018-01-26 17:30:20,492 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.061043739318847656 seconds
+2018-01-26 17:30:20,572 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.07605457305908203 seconds
+2018-01-26 17:30:20,646 - root - INFO - SUCCESS    Clear and type element: <id->email> content: xiaopang@163.com, Spend 0.06804847717285156 seconds
+2018-01-26 17:30:20,712 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18855554444, Spend 0.0600428581237793 seconds
+2018-01-26 17:30:20,938 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.22015595436096191 seconds
+2018-01-26 17:30:25,883 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7572436332702637 seconds
+2018-01-26 17:30:25,888 - root - INFO - ###############################  End  ###############################
+2018-01-26 17:30:29,767 - root - INFO - 发送邮件成功
+2018-01-26 17:31:08,443 - root - INFO - ############################### START ###############################
+2018-01-26 17:31:26,172 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.72822117805481 seconds
+2018-01-26 17:31:26,187 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0 seconds
+2018-01-26 17:31:26,781 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5774710178375244 seconds
+2018-01-26 17:31:26,873 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08606147766113281 seconds
+2018-01-26 17:31:26,971 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08606076240539551 seconds
+2018-01-26 17:31:27,056 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0790565013885498 seconds
+2018-01-26 17:31:32,107 - root - INFO - SUCCESS    Clicked element: <xpath->html/body/div[10]/div[1]/a>, Spend 0.03897738456726074 seconds
+2018-01-26 17:31:32,142 - root - INFO - SUCCESS    Clicked element: <xpath->//div[@id="navMenu"]/ul/li[7]/a/img>, Spend 0.029016733169555664 seconds
+2018-01-26 17:31:32,210 - root - INFO - SUCCESS    Switch to frame element: <id->fNav>, Spend 0.06204366683959961 seconds
+2018-01-26 17:31:33,440 - root - INFO - SUCCESS    Clicked element: <id->spage.data.tree39>, Spend 1.2248668670654297 seconds
+2018-01-26 17:31:33,662 - root - INFO - SUCCESS    Switch to frame out, Spend 0.21715497970581055 seconds
+2018-01-26 17:31:33,917 - root - INFO - SUCCESS    Switch to frame element: <id->fMain>, Spend 0.24817466735839844 seconds
+2018-01-26 17:31:34,268 - root - INFO - SUCCESS    Switch to frame element: <name->fRight>, Spend 0.33223414421081543 seconds
+2018-01-26 17:31:36,620 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.3422422409057617 seconds
+2018-01-26 17:31:36,705 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: daxiong, Spend 0.07805609703063965 seconds
+2018-01-26 17:31:36,771 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 大熊, Spend 0.0600433349609375 seconds
+2018-01-26 17:31:36,845 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06805086135864258 seconds
+2018-01-26 17:31:36,928 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.07705473899841309 seconds
+2018-01-26 17:31:37,013 - root - INFO - SUCCESS    Clear and type element: <id->email> content: daxiong@163.com, Spend 0.0790560245513916 seconds
+2018-01-26 17:31:37,079 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18826051234, Spend 0.06104421615600586 seconds
+2018-01-26 17:31:37,160 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.07706427574157715 seconds
+2018-01-26 17:31:40,481 - root - INFO - SUCCESS    Clicked element: <name->btnCreateUser>, Spend 0.03202342987060547 seconds
+2018-01-26 17:31:40,569 - root - INFO - SUCCESS    Clear and type element: <id->loginId> content: xiaopang, Spend 0.08205962181091309 seconds
+2018-01-26 17:31:40,652 - root - INFO - SUCCESS    Clear and type element: <id->userName> content: 小胖, Spend 0.07505321502685547 seconds
+2018-01-26 17:31:40,745 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08506035804748535 seconds
+2018-01-26 17:31:40,813 - root - INFO - SUCCESS    Clear and type element: <id->confirm> content: 111111, Spend 0.062044620513916016 seconds
+2018-01-26 17:31:40,898 - root - INFO - SUCCESS    Clear and type element: <id->email> content: xiaopang@163.com, Spend 0.0790550708770752 seconds
+2018-01-26 17:31:40,963 - root - INFO - SUCCESS    Clear and type element: <id->phone> content: 18855554444, Spend 0.0600435733795166 seconds
+2018-01-26 17:31:41,051 - root - INFO - SUCCESS    Clicked element: <xpath->(//button[@type="button"])[9]>, Spend 0.08305978775024414 seconds
+2018-01-26 17:31:45,951 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7656440734863281 seconds
+2018-01-26 17:31:45,951 - root - INFO - ###############################  End  ###############################

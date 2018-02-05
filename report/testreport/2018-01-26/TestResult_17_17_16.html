@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>测试报告</title>
+    <meta name="generator" content="HTMLTestRunner 0.9.1"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    
+    <link href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/echarts/3.8.5/echarts.common.min.js"></script>
+    <!-- <script type="text/javascript" src="js/echarts.common.min.js"></script> -->
+    
+    
+<style type="text/css" media="screen">
+    body        { font-family: Microsoft YaHei,Consolas,arial,sans-serif; font-size: 120%; }
+    table       { font-size: 100%; }
+    pre         { white-space: pre-wrap;word-wrap: break-word; }
+
+    /* -- heading ---------------------------------------------------------------------- */
+    h1 {
+        font-size: 16pt;
+        color: gray;
+    }
+    .heading {
+        margin-top: 0ex;
+        margin-bottom: 1ex;
+    }
+
+    .heading .attribute {
+        margin-top: 1ex;
+        margin-bottom: 0;
+    }
+
+    .heading .description {
+        margin-top: 2ex;
+        margin-bottom: 3ex;
+    }
+
+    /* -- css div popup ------------------------------------------------------------------------ */
+    a.popup_link {
+    }
+
+    a.popup_link:hover {
+        color: red;
+    }
+
+    .popup_window {
+        display: none;
+        position: relative;
+        left: 0px;
+        top: 0px;
+        /*border: solid #627173 1px; */
+        padding: 10px;
+        /*background-color: #E6E6D6; */
+        font-family: "Lucida Console", "Courier New", Courier, monospace;
+        text-align: left;
+        font-size: 8pt;
+        /* width: 500px;*/
+    }
+
+    }
+    /* -- report ------------------------------------------------------------------------ */
+    #show_detail_line {
+        margin-top: 3ex;
+        margin-bottom: 1ex;
+    }
+    #result_table {
+        width: 99%;
+    }
+    #header_row {
+        font-weight: bold;
+        color: #303641;
+        background-color: #ebebeb;
+    }
+    #total_row  { font-weight: bold; }
+    .passClass  { background-color: #bdedbc; }
+    .failClass  { background-color: #ffefa4; }
+    .errorClass { background-color: #ffc9c9; }
+    .passCase   { color: #6c6; }
+    .failCase   { color: #FF6600; font-weight: bold; }
+    .errorCase  { color: #c00; font-weight: bold; }
+    .hiddenRow  { display: none; }
+    .testcase   { margin-left: 2em; }
+
+
+    /* -- ending ---------------------------------------------------------------------- */
+    #ending {
+    }
+
+    #div_base {
+                position:absolute;
+                top:0%;
+                left:5%;
+                right:5%;
+                width: auto;
+                height: auto;
+                margin: -15px 0 0 0;
+    }
+</style>
+
+    
+</head>
+<body>
+    <script language="javascript" type="text/javascript"><!--
+    output_list = Array();
+
+    /* level - 0:Summary; 1:Failed; 2:All */
+    function showCase(level) {
+        trs = document.getElementsByTagName("tr");
+        for (var i = 0; i < trs.length; i++) {
+            tr = trs[i];
+            id = tr.id;
+            if (id.substr(0,2) == 'ft') {
+                if (level < 1) {
+                    tr.className = 'hiddenRow';
+                }
+                else {
+                    tr.className = '';
+                }
+            }
+            if (id.substr(0,2) == 'pt') {
+                if (level > 1) {
+                    tr.className = '';
+                }
+                else {
+                    tr.className = 'hiddenRow';
+                }
+            }
+        }
+    }
+
+
+    function showClassDetail(cid, count) {
+        var id_list = Array(count);
+        var toHide = 1;
+        for (var i = 0; i < count; i++) {
+            tid0 = 't' + cid.substr(1) + '.' + (i+1);
+            tid = 'f' + tid0;
+            tr = document.getElementById(tid);
+            if (!tr) {
+                tid = 'p' + tid0;
+                tr = document.getElementById(tid);
+            }
+            id_list[i] = tid;
+            if (tr.className) {
+                toHide = 0;
+            }
+        }
+        for (var i = 0; i < count; i++) {
+            tid = id_list[i];
+            if (toHide) {
+                document.getElementById('div_'+tid).style.display = 'none'
+                document.getElementById(tid).className = 'hiddenRow';
+            }
+            else {
+                document.getElementById(tid).className = '';
+            }
+        }
+    }
+
+
+    function showTestDetail(div_id){
+        var details_div = document.getElementById(div_id)
+        var displayState = details_div.style.display
+        // alert(displayState)
+        if (displayState != 'block' ) {
+            displayState = 'block'
+            details_div.style.display = 'block'
+        }
+        else {
+            details_div.style.display = 'none'
+        }
+    }
+
+
+    function html_escape(s) {
+        s = s.replace(/&/g,'&amp;');
+        s = s.replace(/</g,'&lt;');
+        s = s.replace(/>/g,'&gt;');
+        return s;
+    }
+
+    /* obsoleted by detail in <div>
+    function showOutput(id, name) {
+        var w = window.open("", //url
+                        name,
+                        "resizable,scrollbars,status,width=800,height=450");
+        d = w.document;
+        d.write("<pre>");
+        d.write(html_escape(output_list[id]));
+        d.write("\n");
+        d.write("<a href='javascript:window.close()'>close</a>\n");
+        d.write("</pre>\n");
+        d.close();
+    }
+    */
+    --></script>
+
+    <div id="div_base">
+        
+    <div class='page-header'>
+        <h1>测试报告</h1>
+    <p class='attribute'><strong>开始时间:</strong> 2018-01-26 17:17:16</p>
+<p class='attribute'><strong>运行时长:</strong> 0:03:05.171905</p>
+<p class='attribute'><strong>状态:</strong> 通过 7 失败 1</p>
+
+    </div>
+    <div style="float: left;width:50%;"><p class='description'>Test the import testcase</p></div>
+    <div id="chart" style="width:50%;height:400px;float:left;"></div>
+
+        
+    <div class="btn-group btn-group-sm">
+        <button class="btn btn-default" onclick='javascript:showCase(0)'>总结</button>
+        <button class="btn btn-default" onclick='javascript:showCase(1)'>失败</button>
+        <button class="btn btn-default" onclick='javascript:showCase(2)'>全部</button>
+    </div>
+    <p></p>
+    <table id='result_table' class="table table-bordered">
+        <colgroup>
+            <col align='left' />
+            <col align='right' />
+            <col align='right' />
+            <col align='right' />
+            <col align='right' />
+            <col align='right' />
+        </colgroup>
+        <tr id='header_row'>
+            <td>测试套件/测试用例</td>
+            <td>总数</td>
+            <td>通过</td>
+            <td>失败</td>
+            <td>错误</td>
+            <td>查看</td>
+        </tr>
+        
+    <tr class='passClass'>
+        <td>testuser_add.TestuserAdd: 管理信息门户测试</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td><a href="javascript:showClassDetail('c1',1)">详情</a></td>
+    </tr>
+
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_user_add: 添加新用户的测试</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        通过</a>
+
+    <div id='div_pt1.1' class="popup_window">
+        <pre>pt1.1: 2018-01-26 17:17:16,207 - root - INFO - ############################### START ###############################
+2018-01-26 17:17:31,385 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.162221908569336 seconds
+2018-01-26 17:17:31,620 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2187516689300537 seconds
+2018-01-26 17:17:32,266 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6467247009277344 seconds
+2018-01-26 17:17:32,413 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: admin, Spend 0.1340947151184082 seconds
+2018-01-26 17:17:32,574 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 111111, Spend 0.1461021900177002 seconds
+2018-01-26 17:17:32,660 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.08005762100219727 seconds
+2018-01-26 17:17:37,697 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;html/body/div[10]/div[1]/a&gt;, Spend 0.030007600784301758 seconds
+2018-01-26 17:17:37,742 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;//div[@id="navMenu"]/ul/li[7]/a/img&gt;, Spend 0.036026716232299805 seconds
+2018-01-26 17:17:37,802 - root - INFO - SUCCESS    Switch to frame element: &lt;id-&gt;fNav&gt;, Spend 0.0550379753112793 seconds
+2018-01-26 17:17:39,063 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;spage.data.tree39&gt;, Spend 1.2518868446350098 seconds
+2018-01-26 17:17:39,194 - root - INFO - SUCCESS    Switch to frame out, Spend 0.12508773803710938 seconds
+2018-01-26 17:17:39,225 - root - INFO - SUCCESS    Switch to frame element: &lt;id-&gt;fMain&gt;, Spend 0.017011404037475586 seconds
+2018-01-26 17:17:39,245 - root - INFO - SUCCESS    Switch to frame element: &lt;name-&gt;fRight&gt;, Spend 0.014009237289428711 seconds
+2018-01-26 17:17:41,478 - root - INFO - SUCCESS    Clicked element: &lt;name-&gt;btnCreateUser&gt;, Spend 0.22415828704833984 seconds
+2018-01-26 17:17:41,792 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;loginId&gt; content: daxiong, Spend 0.306215763092041 seconds
+2018-01-26 17:17:42,167 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;userName&gt; content: 大熊, Spend 0.3692624568939209 seconds
+2018-01-26 17:17:42,244 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 111111, Spend 0.06904911994934082 seconds
+2018-01-26 17:17:42,302 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;confirm&gt; content: 111111, Spend 0.05203747749328613 seconds
+2018-01-26 17:17:42,380 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;email&gt; content: daxiong@163.com, Spend 0.07104921340942383 seconds
+2018-01-26 17:17:42,444 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;phone&gt; content: 18826051234, Spend 0.05904221534729004 seconds
+2018-01-26 17:17:42,578 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;(//button[@type="button"])[9]&gt;, Spend 0.12809300422668457 seconds
+2018-01-26 17:17:45,747 - root - INFO - SUCCESS    Clicked element: &lt;name-&gt;btnCreateUser&gt;, Spend 0.09306526184082031 seconds
+2018-01-26 17:17:45,820 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;loginId&gt; content: xiaopang, Spend 0.057039737701416016 seconds
+2018-01-26 17:17:45,906 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;userName&gt; content: 小胖, Spend 0.08005714416503906 seconds
+2018-01-26 17:17:45,971 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 111111, Spend 0.060044288635253906 seconds
+2018-01-26 17:17:46,019 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;confirm&gt; content: 111111, Spend 0.0430302619934082 seconds
+2018-01-26 17:17:46,082 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;email&gt; content: xiaopang@163.com, Spend 0.056040048599243164 seconds
+2018-01-26 17:17:46,144 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;phone&gt; content: 18855554444, Spend 0.05704092979431152 seconds
+2018-01-26 17:17:46,221 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;(//button[@type="button"])[9]&gt;, Spend 0.07104992866516113 seconds
+2018-01-26 17:17:51,228 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8773305416107178 seconds
+2018-01-26 17:17:51,245 - root - INFO - ###############################  End  ###############################
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+    <tr class='passClass'>
+        <td>testuser_delete.TestuserDelete: 管理信息门户测试</td>
+        <td>1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>0</td>
+        <td><a href="javascript:showClassDetail('c2',1)">详情</a></td>
+    </tr>
+
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_user_delete</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
+        通过</a>
+
+    <div id='div_pt2.1' class="popup_window">
+        <pre>pt2.1: 2018-01-26 17:17:51,262 - root - INFO - ############################### START ###############################
+2018-01-26 17:18:06,792 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.514296293258667 seconds
+2018-01-26 17:18:07,089 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2812511920928955 seconds
+2018-01-26 17:18:07,516 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4272756576538086 seconds
+2018-01-26 17:18:07,608 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: admin, Spend 0.08506035804748535 seconds
+2018-01-26 17:18:07,742 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 111111, Spend 0.12108612060546875 seconds
+2018-01-26 17:18:07,810 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.061043739318847656 seconds
+2018-01-26 17:18:12,840 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;html/body/div[10]/div[1]/a&gt;, Spend 0.02200484275817871 seconds
+2018-01-26 17:18:12,876 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;//div[@id="navMenu"]/ul/li[7]/a/img&gt;, Spend 0.03001999855041504 seconds
+2018-01-26 17:18:12,905 - root - INFO - SUCCESS    Switch to frame element: &lt;id-&gt;fNav&gt;, Spend 0.022017478942871094 seconds
+2018-01-26 17:18:14,045 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;spage.data.tree39&gt;, Spend 1.1308002471923828 seconds
+2018-01-26 17:18:14,231 - root - INFO - SUCCESS    Switch to frame out, Spend 0.18112850189208984 seconds
+2018-01-26 17:18:14,607 - root - INFO - SUCCESS    Switch to frame element: &lt;id-&gt;fMain&gt;, Spend 0.36826157569885254 seconds
+2018-01-26 17:18:14,711 - root - INFO - SUCCESS    Switch to frame element: &lt;name-&gt;fRight&gt;, Spend 0.09707832336425781 seconds
+2018-01-26 17:18:16,829 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[3]/td[1]/input&gt;, Spend 0.044031381607055664 seconds
+2018-01-26 17:18:16,944 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[8]/td[1]/input&gt;, Spend 0.060042381286621094 seconds
+2018-01-26 17:18:18,205 - root - INFO - SUCCESS    Clicked element: &lt;name-&gt;btnRemoveUser&gt;, Spend 0.2521798610687256 seconds
+2018-01-26 17:18:18,263 - root - INFO - SUCCESS    Accept warning box, Spend 0.04903554916381836 seconds
+2018-01-26 17:18:23,297 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0517663955688477 seconds
+2018-01-26 17:18:23,312 - root - INFO - ###############################  End  ###############################
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+    <tr class='failClass'>
+        <td>testuser_edit.TestuserEdit: 管理信息门户测试</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td>0</td>
+        <td><a href="javascript:showClassDetail('c3',1)">详情</a></td>
+    </tr>
+
+<tr id='ft3.1' class='none'>
+    <td class='failCase'><div class='testcase'>test_user_edit: 用户信息编辑功能测试</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft3.1')" >
+        失败</a>
+
+    <div id='div_ft3.1' class="popup_window">
+        <pre>ft3.1: 2018-01-26 17:18:23,312 - root - INFO - ############################### START ###############################
+2018-01-26 17:18:39,002 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.689686059951782 seconds
+2018-01-26 17:18:39,236 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.23437809944152832 seconds
+2018-01-26 17:18:39,841 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6040070056915283 seconds
+2018-01-26 17:18:39,908 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: admin, Spend 0.06104326248168945 seconds
+2018-01-26 17:18:39,977 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 111111, Spend 0.06304383277893066 seconds
+2018-01-26 17:18:40,047 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.06504201889038086 seconds
+2018-01-26 17:18:45,094 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;html/body/div[10]/div[1]/a&gt;, Spend 0.03397393226623535 seconds
+2018-01-26 17:18:45,134 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;//div[@id="navMenu"]/ul/li[7]/a/img&gt;, Spend 0.033023834228515625 seconds
+2018-01-26 17:18:45,192 - root - INFO - SUCCESS    Switch to frame element: &lt;id-&gt;fNav&gt;, Spend 0.05303788185119629 seconds
+2018-01-26 17:18:46,448 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;spage.data.tree39&gt;, Spend 1.246882677078247 seconds
+2018-01-26 17:18:46,594 - root - INFO - SUCCESS    Switch to frame out, Spend 0.14010119438171387 seconds
+2018-01-26 17:18:46,620 - root - INFO - SUCCESS    Switch to frame element: &lt;id-&gt;fMain&gt;, Spend 0.015011310577392578 seconds
+2018-01-26 17:18:46,651 - root - INFO - SUCCESS    Switch to frame element: &lt;name-&gt;fRight&gt;, Spend 0.025017738342285156 seconds
+2018-01-26 17:18:48,778 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;html/body/div[1]/div[2]/div/div/div[2]/table/tbody/tr[6]/td[7]/div/a[2]/img&gt;, Spend 0.12004256248474121 seconds
+2018-01-26 17:18:50,896 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;loginId&gt; content: xiaohong, Spend 0.1090247631072998 seconds
+2018-01-26 17:18:50,971 - root - INFO - SUCCESS    Clicked element: &lt;xpath-&gt;html/body/div[5]/div[3]/div/button[2]&gt;, Spend 0.07105088233947754 seconds
+2018-01-26 17:18:50,989 - root - INFO - SUCCESS    Judge the alert available, Spend 0.013999223709106445 seconds
+2018-01-26 17:18:52,730 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7346489429473877 seconds
+2018-01-26 17:18:52,746 - root - INFO - ###############################  End  ###############################
+Traceback (most recent call last):
+  File "E:\MyDocument\PycharmProjects\UItestframework-master\testcase\testuser_edit.py", line 25, in test_user_edit
+    self.assertTrue(result, "不应该出现重复的账户名")
+AssertionError: False is not true : 不应该出现重复的账户名
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+    <tr class='passClass'>
+        <td>testuser_login.TestuserLogin: 管理信息门户测试</td>
+        <td>5</td>
+        <td>5</td>
+        <td>0</td>
+        <td>0</td>
+        <td><a href="javascript:showClassDetail('c4',5)">详情</a></td>
+    </tr>
+
+<tr id='pt4.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_user_login1: 用户名，密码为空测试</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.1')" >
+        通过</a>
+
+    <div id='div_pt4.1' class="popup_window">
+        <pre>pt4.1: 2018-01-26 17:18:52,761 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:07,981 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.20380425453186 seconds
+2018-01-26 17:19:08,278 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2812540531158447 seconds
+2018-01-26 17:19:08,853 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5740354061126709 seconds
+2018-01-26 17:19:08,933 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: , Spend 0.07105207443237305 seconds
+2018-01-26 17:19:09,014 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: , Spend 0.0720524787902832 seconds
+2018-01-26 17:19:09,081 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.061043500900268555 seconds
+2018-01-26 17:19:09,122 - root - INFO - SUCCESS    Get element text element: &lt;id-&gt;msg&gt;, Spend 0.03302431106567383 seconds
+2018-01-26 17:19:10,769 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.640533208847046 seconds
+2018-01-26 17:19:10,769 - root - INFO - ###############################  End  ###############################
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt4.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_user_login2: 用户名正确，密码为空测试</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.2')" >
+        通过</a>
+
+    <div id='div_pt4.2' class="popup_window">
+        <pre>pt4.2: 2018-01-26 17:19:10,785 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:23,465 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 12.679922342300415 seconds
+2018-01-26 17:19:23,777 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968764305114746 seconds
+2018-01-26 17:19:24,231 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4367704391479492 seconds
+2018-01-26 17:19:24,307 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: admin, Spend 0.06804847717285156 seconds
+2018-01-26 17:19:24,385 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: , Spend 0.06904864311218262 seconds
+2018-01-26 17:19:24,454 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.062044620513916016 seconds
+2018-01-26 17:19:24,493 - root - INFO - SUCCESS    Get element text element: &lt;id-&gt;msg&gt;, Spend 0.029021501541137695 seconds
+2018-01-26 17:19:26,024 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.5260331630706787 seconds
+2018-01-26 17:19:26,024 - root - INFO - ###############################  End  ###############################
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt4.3' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_user_login3: 用户名为空，密码正确测试</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.3')" >
+        通过</a>
+
+    <div id='div_pt4.3' class="popup_window">
+        <pre>pt4.3: 2018-01-26 17:19:26,024 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:40,993 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.95333218574524 seconds
+2018-01-26 17:19:41,311 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.30268216133117676 seconds
+2018-01-26 17:19:41,928 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6007094383239746 seconds
+2018-01-26 17:19:41,974 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: , Spend 0.046866416931152344 seconds
+2018-01-26 17:19:42,053 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 111111, Spend 0.0625004768371582 seconds
+2018-01-26 17:19:42,115 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.0625009536743164 seconds
+2018-01-26 17:19:42,146 - root - INFO - SUCCESS    Get element text element: &lt;id-&gt;msg&gt;, Spend 0.015625476837158203 seconds
+2018-01-26 17:19:43,903 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7569613456726074 seconds
+2018-01-26 17:19:43,903 - root - INFO - ###############################  End  ###############################
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt4.4' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_user_login4: 用户名,密码不匹配测试</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.4')" >
+        通过</a>
+
+    <div id='div_pt4.4' class="popup_window">
+        <pre>pt4.4: 2018-01-26 17:19:43,919 - root - INFO - ############################### START ###############################
+2018-01-26 17:19:59,964 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.045240879058838 seconds
+2018-01-26 17:20:00,199 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2187502384185791 seconds
+2018-01-26 17:20:00,703 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.48833274841308594 seconds
+2018-01-26 17:20:00,798 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: admin, Spend 0.08606076240539551 seconds
+2018-01-26 17:20:00,880 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 22222, Spend 0.07505297660827637 seconds
+2018-01-26 17:20:00,960 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.07505297660827637 seconds
+2018-01-26 17:20:01,979 - root - INFO - SUCCESS    Get element text element: &lt;id-&gt;msg&gt;, Spend 0.014962196350097656 seconds
+2018-01-26 17:20:03,661 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.6774566173553467 seconds
+2018-01-26 17:20:03,677 - root - INFO - ###############################  End  ###############################
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt4.5' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_user_login5: 用户名,密码正确测试</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt4.5')" >
+        通过</a>
+
+    <div id='div_pt4.5' class="popup_window">
+        <pre>pt4.5: 2018-01-26 17:20:03,677 - root - INFO - ############################### START ###############################
+2018-01-26 17:20:16,071 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 12.394933462142944 seconds
+2018-01-26 17:20:16,368 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2968771457672119 seconds
+2018-01-26 17:20:16,921 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5528879165649414 seconds
+2018-01-26 17:20:17,006 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;username&gt; content: admin, Spend 0.07805514335632324 seconds
+2018-01-26 17:20:17,092 - root - INFO - SUCCESS    Clear and type element: &lt;id-&gt;password&gt; content: 111111, Spend 0.08005595207214355 seconds
+2018-01-26 17:20:17,194 - root - INFO - SUCCESS    Clicked element: &lt;id-&gt;btnLogin&gt;, Spend 0.08705997467041016 seconds
+2018-01-26 17:20:19,222 - root - INFO - SUCCESS    Get element text element: &lt;xpath-&gt;html/body/div[2]/div/div[2]/div[2]/span&gt;, Spend 0.017012357711791992 seconds
+2018-01-26 17:20:21,348 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.122246503829956 seconds
+2018-01-26 17:20:21,364 - root - INFO - ###############################  End  ###############################
+</pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+        <tr id='total_row'>
+            <td>总计</td>
+            <td>8</td>
+            <td>7</td>
+            <td>1</td>
+            <td>0</td>
+            <td>&nbsp;</td>
+        </tr>
+    </table>
+
+        <div id='ending'>&nbsp;</div>
+        
+    <script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('chart'));
+
+        // 指定图表的配置项和数据
+        var option = {
+            title : {
+                text: '测试执行情况',
+                x:'center'
+            },
+            tooltip : {
+                trigger: 'item',
+                formatter: "{a} <br/>{b} : {c} ({d}%)"
+            },
+            color: ['#95b75d', 'grey', '#b64645'],
+            legend: {
+                orient: 'vertical',
+                left: 'left',
+                data: ['通过','失败','错误']
+            },
+            series : [
+                {
+                    name: '测试执行情况',
+                    type: 'pie',
+                    radius : '60%',
+                    center: ['50%', '60%'],
+                    data:[
+                        {value:7, name:'通过'},
+                        {value:1, name:'失败'},
+                        {value:0, name:'错误'}
+                    ],
+                    itemStyle: {
+                        emphasis: {
+                            shadowBlur: 10,
+                            shadowOffsetX: 0,
+                            shadowColor: 'rgba(0, 0, 0, 0.5)'
+                        }
+                    }
+                }
+            ]
+        };
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+    
+    </div>
+</body>
+</html>

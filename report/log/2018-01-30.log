@@ -1,0 +1,724 @@
+2018-01-30 11:33:04,571 - root - INFO - ############################### START ###############################
+2018-01-30 11:33:42,930 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 38.337799310684204 seconds
+2018-01-30 11:33:43,613 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.6744775772094727 seconds
+2018-01-30 11:35:42,691 - root - INFO - ############################### START ###############################
+2018-01-30 11:36:01,157 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.46044135093689 seconds
+2018-01-30 11:36:01,542 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3849794864654541 seconds
+2018-01-30 11:38:02,759 - root - INFO - ############################### START ###############################
+2018-01-30 11:38:27,939 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 25.17099666595459 seconds
+2018-01-30 11:38:28,030 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.055039405822753906 seconds
+2018-01-30 11:38:31,033 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 2.987497329711914 seconds
+2018-01-30 11:38:31,491 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.4484975337982178 seconds
+2018-01-30 11:38:31,747 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.24522757530212402 seconds
+2018-01-30 11:38:31,973 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.21880269050598145 seconds
+2018-01-30 11:38:34,560 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.5781798362731934 seconds
+2018-01-30 11:38:37,379 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.788973569869995 seconds
+2018-01-30 11:43:15,846 - root - INFO - ############################### START ###############################
+2018-01-30 11:43:33,364 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.514611959457397 seconds
+2018-01-30 11:43:33,693 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3202219009399414 seconds
+2018-01-30 11:43:34,340 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6322107315063477 seconds
+2018-01-30 11:43:34,510 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.06405162811279297 seconds
+2018-01-30 11:43:34,590 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07206511497497559 seconds
+2018-01-30 11:43:34,676 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07705235481262207 seconds
+2018-01-30 11:43:38,268 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 1.5841400623321533 seconds
+2018-01-30 11:44:06,852 - root - INFO - ############################### START ###############################
+2018-01-30 11:44:25,104 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.24460506439209 seconds
+2018-01-30 11:44:25,468 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.35364675521850586 seconds
+2018-01-30 11:44:26,050 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5660324096679688 seconds
+2018-01-30 11:44:26,118 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.061040401458740234 seconds
+2018-01-30 11:44:26,221 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.09306573867797852 seconds
+2018-01-30 11:44:26,544 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.31336474418640137 seconds
+2018-01-30 11:44:26,595 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.0430140495300293 seconds
+2018-01-30 11:44:28,419 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.4655570983886719 seconds
+2018-01-30 11:44:28,464 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03702664375305176 seconds
+2018-01-30 11:44:28,513 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.04203033447265625 seconds
+2018-01-30 11:44:28,598 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07916450500488281 seconds
+2018-01-30 11:44:28,623 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.01800084114074707 seconds
+2018-01-30 11:44:29,499 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6082460880279541 seconds
+2018-01-30 11:44:29,546 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.04202914237976074 seconds
+2018-01-30 11:44:29,605 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05303621292114258 seconds
+2018-01-30 11:44:29,663 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.048033952713012695 seconds
+2018-01-30 11:44:29,693 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.020014047622680664 seconds
+2018-01-30 11:44:30,316 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.32723045349121094 seconds
+2018-01-30 11:44:30,353 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.031022071838378906 seconds
+2018-01-30 11:44:30,402 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.03902697563171387 seconds
+2018-01-30 11:44:30,477 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06604886054992676 seconds
+2018-01-30 11:44:31,530 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.044965505599975586 seconds
+2018-01-30 11:44:32,143 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3542511463165283 seconds
+2018-01-30 11:44:32,184 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.033023834228515625 seconds
+2018-01-30 11:44:32,243 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05003237724304199 seconds
+2018-01-30 11:44:32,304 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05504035949707031 seconds
+2018-01-30 11:44:34,607 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.2952086925506592 seconds
+2018-01-30 13:49:25,463 - root - INFO - ############################### START ###############################
+2018-01-30 13:49:45,579 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 20.110583305358887 seconds
+2018-01-30 13:49:45,945 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.36020541191101074 seconds
+2018-01-30 13:49:46,779 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.8221781253814697 seconds
+2018-01-30 13:49:46,975 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.19122028350830078 seconds
+2018-01-30 13:49:47,186 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.20207548141479492 seconds
+2018-01-30 13:49:47,235 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.041028499603271484 seconds
+2018-01-30 13:49:47,280 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.03654193878173828 seconds
+2018-01-30 13:49:48,397 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.32411861419677734 seconds
+2018-01-30 13:49:48,454 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04803299903869629 seconds
+2018-01-30 13:49:48,518 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.05304455757141113 seconds
+2018-01-30 13:49:48,581 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.055542945861816406 seconds
+2018-01-30 13:49:48,603 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015011310577392578 seconds
+2018-01-30 13:49:49,184 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.33276987075805664 seconds
+2018-01-30 13:49:49,226 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.03302478790283203 seconds
+2018-01-30 13:49:49,280 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.049039602279663086 seconds
+2018-01-30 13:49:49,333 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04603290557861328 seconds
+2018-01-30 13:49:49,357 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.017012596130371094 seconds
+2018-01-30 13:49:50,072 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4562516212463379 seconds
+2018-01-30 13:49:50,116 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03702950477600098 seconds
+2018-01-30 13:49:50,190 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.05504965782165527 seconds
+2018-01-30 13:49:50,291 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.09507369995117188 seconds
+2018-01-30 13:49:51,349 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.04899859428405762 seconds
+2018-01-30 13:49:51,914 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.31375598907470703 seconds
+2018-01-30 13:49:51,965 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04102826118469238 seconds
+2018-01-30 13:49:52,069 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.09808230400085449 seconds
+2018-01-30 13:49:52,186 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.10908985137939453 seconds
+2018-01-30 13:49:54,271 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.0755615234375 seconds
+2018-01-30 13:49:59,404 - root - INFO - 发送邮件成功
+2018-01-30 13:52:16,126 - root - INFO - ############################### START ###############################
+2018-01-30 13:52:32,751 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.620080709457397 seconds
+2018-01-30 13:52:32,765 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.005003452301025391 seconds
+2018-01-30 13:52:33,269 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.49350571632385254 seconds
+2018-01-30 13:52:33,357 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07706022262573242 seconds
+2018-01-30 13:52:33,412 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.049056291580200195 seconds
+2018-01-30 13:52:33,474 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05654478073120117 seconds
+2018-01-30 13:52:33,509 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.0282742977142334 seconds
+2018-01-30 13:52:33,515 - root - INFO - ###############################  End  ###############################
+2018-01-30 13:52:33,835 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3128960132598877 seconds
+2018-01-30 13:52:33,894 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.052347660064697266 seconds
+2018-01-30 13:52:33,934 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.034024953842163086 seconds
+2018-01-30 13:52:33,997 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05563473701477051 seconds
+2018-01-30 13:52:34,018 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.016010761260986328 seconds
+2018-01-30 13:52:34,024 - root - INFO - ###############################  End  ###############################
+2018-01-30 13:52:34,592 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5618696212768555 seconds
+2018-01-30 13:52:34,624 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.02702021598815918 seconds
+2018-01-30 13:52:34,677 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04653668403625488 seconds
+2018-01-30 13:52:34,732 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04703330993652344 seconds
+2018-01-30 13:52:34,753 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.013008356094360352 seconds
+2018-01-30 13:52:34,758 - root - INFO - ###############################  End  ###############################
+2018-01-30 13:52:38,704 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 3.9404282569885254 seconds
+2018-01-30 13:52:38,773 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04553699493408203 seconds
+2018-01-30 13:52:38,824 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.04503631591796875 seconds
+2018-01-30 13:52:38,902 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07106351852416992 seconds
+2018-01-30 13:52:39,926 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.01500082015991211 seconds
+2018-01-30 13:52:39,931 - root - INFO - ###############################  End  ###############################
+2018-01-30 13:52:40,204 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.26822447776794434 seconds
+2018-01-30 13:52:40,246 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.037027835845947266 seconds
+2018-01-30 13:52:40,299 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.043039798736572266 seconds
+2018-01-30 13:52:40,356 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05203652381896973 seconds
+2018-01-30 13:52:42,595 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.23018312454223633 seconds
+2018-01-30 13:52:44,419 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.8147125244140625 seconds
+2018-01-30 13:52:44,436 - root - INFO - ###############################  End  ###############################
+2018-01-30 13:52:48,309 - root - INFO - 发送邮件成功
+2018-01-30 14:00:10,340 - root - INFO - ############################### START ###############################
+2018-01-30 14:00:27,666 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.319939136505127 seconds
+2018-01-30 14:00:27,982 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3067944049835205 seconds
+2018-01-30 14:00:28,441 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4424149990081787 seconds
+2018-01-30 14:00:28,534 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07906675338745117 seconds
+2018-01-30 14:00:28,600 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.05904245376586914 seconds
+2018-01-30 14:00:28,674 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06705760955810547 seconds
+2018-01-30 14:00:28,707 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.022015810012817383 seconds
+2018-01-30 14:00:30,939 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.2254738807678223 seconds
+2018-01-30 14:00:31,969 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0022616386413574 seconds
+2018-01-30 14:00:32,987 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.001554012298584 seconds
+2018-01-30 14:00:34,205 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0005817413330078 seconds
+2018-01-30 14:00:35,218 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0015013217926025 seconds
+2018-01-30 14:00:36,246 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0021238327026367 seconds
+2018-01-30 14:00:37,268 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0040326118469238 seconds
+2018-01-30 14:00:38,292 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0025010108947754 seconds
+2018-01-30 14:00:39,313 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0017366409301758 seconds
+2018-01-30 14:00:43,342 - root - INFO - 发送邮件成功
+2018-01-30 14:02:34,048 - root - INFO - ############################### START ###############################
+2018-01-30 14:02:52,657 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.602638244628906 seconds
+2018-01-30 14:02:52,671 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.004502534866333008 seconds
+2018-01-30 14:02:53,317 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.631563663482666 seconds
+2018-01-30 14:02:53,388 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.06505274772644043 seconds
+2018-01-30 14:02:53,457 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.06404638290405273 seconds
+2018-01-30 14:02:53,536 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06454873085021973 seconds
+2018-01-30 14:02:53,564 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.020519018173217773 seconds
+2018-01-30 14:02:53,569 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:02:53,876 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3022749423980713 seconds
+2018-01-30 14:02:53,925 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04002642631530762 seconds
+2018-01-30 14:02:53,974 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.04153609275817871 seconds
+2018-01-30 14:02:54,060 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07906246185302734 seconds
+2018-01-30 14:02:54,080 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.014515161514282227 seconds
+2018-01-30 14:02:54,085 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:02:55,337 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.2452199459075928 seconds
+2018-01-30 14:02:55,376 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.03152656555175781 seconds
+2018-01-30 14:02:55,434 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.052037954330444336 seconds
+2018-01-30 14:02:55,476 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.03552985191345215 seconds
+2018-01-30 14:02:55,500 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015010833740234375 seconds
+2018-01-30 14:02:55,505 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:02:55,793 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2842237949371338 seconds
+2018-01-30 14:02:55,838 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.038027048110961914 seconds
+2018-01-30 14:02:55,890 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.04304194450378418 seconds
+2018-01-30 14:02:55,951 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05503988265991211 seconds
+2018-01-30 14:02:56,988 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.031012296676635742 seconds
+2018-01-30 14:02:56,995 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:02:57,284 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.28323912620544434 seconds
+2018-01-30 14:02:57,319 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.030021190643310547 seconds
+2018-01-30 14:02:57,368 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0440371036529541 seconds
+2018-01-30 14:02:57,423 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.050722360610961914 seconds
+2018-01-30 14:02:59,797 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.3672604560852051 seconds
+2018-01-30 14:02:59,804 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:03:03,796 - root - INFO - 发送邮件成功
+2018-01-30 14:04:26,230 - root - INFO - ############################### START ###############################
+2018-01-30 14:04:52,383 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 26.148447036743164 seconds
+2018-01-30 14:04:52,694 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3002338409423828 seconds
+2018-01-30 14:04:53,154 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4510457515716553 seconds
+2018-01-30 14:04:53,236 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07305312156677246 seconds
+2018-01-30 14:04:53,328 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.07906055450439453 seconds
+2018-01-30 14:04:53,389 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.053046226501464844 seconds
+2018-01-30 14:04:53,415 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.018012285232543945 seconds
+2018-01-30 14:04:53,421 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:04:53,718 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2902946472167969 seconds
+2018-01-30 14:04:53,790 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0660560131072998 seconds
+2018-01-30 14:04:53,837 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.03802680969238281 seconds
+2018-01-30 14:04:53,879 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.034940481185913086 seconds
+2018-01-30 14:04:53,898 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.013013362884521484 seconds
+2018-01-30 14:04:53,903 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:04:54,202 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2932305335998535 seconds
+2018-01-30 14:04:54,239 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.02801990509033203 seconds
+2018-01-30 14:04:54,291 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04699087142944336 seconds
+2018-01-30 14:04:54,336 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.038027286529541016 seconds
+2018-01-30 14:04:54,360 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.018017053604125977 seconds
+2018-01-30 14:04:54,367 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:04:55,431 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0594260692596436 seconds
+2018-01-30 14:04:55,471 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03403329849243164 seconds
+2018-01-30 14:04:55,520 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.04002952575683594 seconds
+2018-01-30 14:04:55,582 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05504631996154785 seconds
+2018-01-30 14:04:56,609 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.018011093139648438 seconds
+2018-01-30 14:04:56,616 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:04:56,944 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3222618103027344 seconds
+2018-01-30 14:04:56,983 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03352761268615723 seconds
+2018-01-30 14:04:57,033 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04403328895568848 seconds
+2018-01-30 14:04:57,090 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.049616098403930664 seconds
+2018-01-30 14:04:59,250 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.15362334251403809 seconds
+2018-01-30 14:04:59,260 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:05:03,663 - root - INFO - 发送邮件成功
+2018-01-30 14:31:47,210 - root - INFO - ############################### START ###############################
+2018-01-30 14:32:02,811 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.595217943191528 seconds
+2018-01-30 14:32:03,114 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2932279109954834 seconds
+2018-01-30 14:32:03,683 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4370911121368408 seconds
+2018-01-30 14:32:03,757 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.06805706024169922 seconds
+2018-01-30 14:32:03,826 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.05904984474182129 seconds
+2018-01-30 14:32:03,907 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0740654468536377 seconds
+2018-01-30 14:32:03,937 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.023015975952148438 seconds
+2018-01-30 14:32:03,944 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:32:04,279 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.32625532150268555 seconds
+2018-01-30 14:32:04,329 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04357457160949707 seconds
+2018-01-30 14:32:04,380 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.04102969169616699 seconds
+2018-01-30 14:32:04,424 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.03853297233581543 seconds
+2018-01-30 14:32:04,445 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015011072158813477 seconds
+2018-01-30 14:32:04,451 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:32:04,823 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.36527562141418457 seconds
+2018-01-30 14:32:04,857 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.027019500732421875 seconds
+2018-01-30 14:32:04,921 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0590510368347168 seconds
+2018-01-30 14:32:04,980 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.051035404205322266 seconds
+2018-01-30 14:32:05,005 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.01601719856262207 seconds
+2018-01-30 14:32:05,012 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:32:06,257 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.2341020107269287 seconds
+2018-01-30 14:32:06,308 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04503178596496582 seconds
+2018-01-30 14:32:06,365 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.05004477500915527 seconds
+2018-01-30 14:32:06,441 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0670478343963623 seconds
+2018-01-30 14:32:07,495 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.04505562782287598 seconds
+2018-01-30 14:32:07,505 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:32:07,805 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2880423069000244 seconds
+2018-01-30 14:32:07,842 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03102278709411621 seconds
+2018-01-30 14:32:07,893 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.044034481048583984 seconds
+2018-01-30 14:32:07,950 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.050540924072265625 seconds
+2018-01-30 14:32:10,079 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.12238740921020508 seconds
+2018-01-30 14:32:10,089 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:34:08,177 - root - INFO - ############################### START ###############################
+2018-01-30 14:34:22,949 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.766461610794067 seconds
+2018-01-30 14:34:23,317 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.35604286193847656 seconds
+2018-01-30 14:34:23,773 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.43840479850769043 seconds
+2018-01-30 14:34:23,843 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.06455230712890625 seconds
+2018-01-30 14:34:23,934 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.08256340026855469 seconds
+2018-01-30 14:34:24,004 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.060546159744262695 seconds
+2018-01-30 14:34:24,034 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.02101445198059082 seconds
+2018-01-30 14:34:24,041 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:34:24,365 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.314251184463501 seconds
+2018-01-30 14:34:24,418 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04603171348571777 seconds
+2018-01-30 14:34:24,465 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.04003500938415527 seconds
+2018-01-30 14:34:24,512 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.03902864456176758 seconds
+2018-01-30 14:34:24,534 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.014010190963745117 seconds
+2018-01-30 14:34:24,540 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:34:24,898 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.35131406784057617 seconds
+2018-01-30 14:34:24,945 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.03752946853637695 seconds
+2018-01-30 14:34:25,001 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.0505373477935791 seconds
+2018-01-30 14:34:25,052 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04203343391418457 seconds
+2018-01-30 14:34:25,076 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015010356903076172 seconds
+2018-01-30 14:34:25,081 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:34:26,249 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.1605005264282227 seconds
+2018-01-30 14:34:26,293 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.036026716232299805 seconds
+2018-01-30 14:34:26,357 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.05404186248779297 seconds
+2018-01-30 14:34:26,439 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07405209541320801 seconds
+2018-01-30 14:34:27,495 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.045914411544799805 seconds
+2018-01-30 14:34:27,510 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:34:27,797 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.27625370025634766 seconds
+2018-01-30 14:34:27,841 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.038025617599487305 seconds
+2018-01-30 14:34:27,886 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.03953218460083008 seconds
+2018-01-30 14:34:27,952 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05904412269592285 seconds
+2018-01-30 14:34:30,044 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.08556723594665527 seconds
+2018-01-30 14:34:30,051 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:35:19,187 - root - INFO - ############################### START ###############################
+2018-01-30 14:35:35,428 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.234489679336548 seconds
+2018-01-30 14:35:35,444 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.005003690719604492 seconds
+2018-01-30 14:35:35,889 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4303436279296875 seconds
+2018-01-30 14:35:35,973 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07506251335144043 seconds
+2018-01-30 14:35:36,054 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.06705737113952637 seconds
+2018-01-30 14:35:36,121 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.062047481536865234 seconds
+2018-01-30 14:35:36,149 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.019013166427612305 seconds
+2018-01-30 14:35:36,155 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:35:36,452 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.29046630859375 seconds
+2018-01-30 14:35:36,492 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03402304649353027 seconds
+2018-01-30 14:35:36,544 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.04445767402648926 seconds
+2018-01-30 14:35:36,592 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04102969169616699 seconds
+2018-01-30 14:35:36,617 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.017515897750854492 seconds
+2018-01-30 14:35:36,624 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:35:36,960 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3282639980316162 seconds
+2018-01-30 14:35:36,999 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.032022714614868164 seconds
+2018-01-30 14:35:37,055 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.049046993255615234 seconds
+2018-01-30 14:35:37,118 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05354475975036621 seconds
+2018-01-30 14:35:37,148 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.023016691207885742 seconds
+2018-01-30 14:35:37,154 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:35:38,326 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.16392183303833 seconds
+2018-01-30 14:35:38,374 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03902840614318848 seconds
+2018-01-30 14:35:38,435 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.050040483474731445 seconds
+2018-01-30 14:35:38,496 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05404019355773926 seconds
+2018-01-30 14:35:39,541 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.036867618560791016 seconds
+2018-01-30 14:35:39,549 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:35:39,841 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.28309082984924316 seconds
+2018-01-30 14:35:39,884 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03702664375305176 seconds
+2018-01-30 14:35:39,930 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04053950309753418 seconds
+2018-01-30 14:35:39,987 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05203723907470703 seconds
+2018-01-30 14:35:42,061 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.06705403327941895 seconds
+2018-01-30 14:35:42,067 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:37:20,284 - root - INFO - ############################### START ###############################
+2018-01-30 14:37:36,682 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.393073320388794 seconds
+2018-01-30 14:37:36,784 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.08106756210327148 seconds
+2018-01-30 14:37:37,315 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5144639015197754 seconds
+2018-01-30 14:37:37,397 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07405591011047363 seconds
+2018-01-30 14:37:37,485 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.0810697078704834 seconds
+2018-01-30 14:37:37,559 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06505203247070312 seconds
+2018-01-30 14:37:37,584 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.019011735916137695 seconds
+2018-01-30 14:37:37,590 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:37:37,887 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2912280559539795 seconds
+2018-01-30 14:37:37,935 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04002833366394043 seconds
+2018-01-30 14:37:37,986 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.041034698486328125 seconds
+2018-01-30 14:37:38,049 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.056543827056884766 seconds
+2018-01-30 14:37:38,073 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.017012834548950195 seconds
+2018-01-30 14:37:38,079 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:37:39,647 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.5608725547790527 seconds
+2018-01-30 14:37:39,678 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.02523946762084961 seconds
+2018-01-30 14:37:39,728 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04403233528137207 seconds
+2018-01-30 14:37:39,768 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.03553009033203125 seconds
+2018-01-30 14:37:39,789 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015010833740234375 seconds
+2018-01-30 14:37:39,794 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:37:40,119 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3172640800476074 seconds
+2018-01-30 14:37:40,162 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03552889823913574 seconds
+2018-01-30 14:37:40,217 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.04803299903869629 seconds
+2018-01-30 14:37:40,284 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05908942222595215 seconds
+2018-01-30 14:37:41,319 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.02800893783569336 seconds
+2018-01-30 14:37:41,331 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:37:41,606 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.26821231842041016 seconds
+2018-01-30 14:37:41,641 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.02801990509033203 seconds
+2018-01-30 14:37:41,694 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04604625701904297 seconds
+2018-01-30 14:37:41,749 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04953885078430176 seconds
+2018-01-30 14:37:43,851 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.09513592720031738 seconds
+2018-01-30 14:37:43,861 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:54:34,992 - root - INFO - ############################### START ###############################
+2018-01-30 14:54:55,614 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 20.593772172927856 seconds
+2018-01-30 14:54:55,835 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.21226048469543457 seconds
+2018-01-30 14:54:57,382 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.498485803604126 seconds
+2018-01-30 14:54:57,467 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.0795905590057373 seconds
+2018-01-30 14:54:57,537 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.06355619430541992 seconds
+2018-01-30 14:54:57,608 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06104755401611328 seconds
+2018-01-30 14:54:57,658 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.03803420066833496 seconds
+2018-01-30 14:54:57,663 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:54:57,968 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2990579605102539 seconds
+2018-01-30 14:54:58,018 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04304051399230957 seconds
+2018-01-30 14:54:58,068 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.0430300235748291 seconds
+2018-01-30 14:54:58,104 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.030026674270629883 seconds
+2018-01-30 14:54:58,128 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.013511896133422852 seconds
+2018-01-30 14:54:58,133 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:54:58,442 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.30223536491394043 seconds
+2018-01-30 14:54:58,482 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.034026145935058594 seconds
+2018-01-30 14:54:58,538 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04704451560974121 seconds
+2018-01-30 14:54:58,589 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04303097724914551 seconds
+2018-01-30 14:54:58,615 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.017019987106323242 seconds
+2018-01-30 14:54:58,620 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:54:58,929 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.30231165885925293 seconds
+2018-01-30 14:54:58,979 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04503297805786133 seconds
+2018-01-30 14:54:59,037 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.05161237716674805 seconds
+2018-01-30 14:54:59,110 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06254863739013672 seconds
+2018-01-30 14:55:00,129 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.014070272445678711 seconds
+2018-01-30 14:55:00,134 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:55:00,403 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.261716365814209 seconds
+2018-01-30 14:55:00,445 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03553509712219238 seconds
+2018-01-30 14:55:00,497 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04603433609008789 seconds
+2018-01-30 14:55:00,561 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.054479122161865234 seconds
+2018-01-30 14:55:02,950 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.3821523189544678 seconds
+2018-01-30 14:55:02,958 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:56:52,144 - root - INFO - ############################### START ###############################
+2018-01-30 14:57:08,712 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.562214374542236 seconds
+2018-01-30 14:57:09,033 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3059377670288086 seconds
+2018-01-30 14:57:09,453 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4055039882659912 seconds
+2018-01-30 14:57:09,545 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.08406615257263184 seconds
+2018-01-30 14:57:09,639 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.07705903053283691 seconds
+2018-01-30 14:57:09,727 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07355213165283203 seconds
+2018-01-30 14:57:09,762 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.024523258209228516 seconds
+2018-01-30 14:57:09,770 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:57:10,089 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.310239315032959 seconds
+2018-01-30 14:57:10,139 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04353761672973633 seconds
+2018-01-30 14:57:10,186 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.04002952575683594 seconds
+2018-01-30 14:57:10,254 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05204439163208008 seconds
+2018-01-30 14:57:10,283 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.019016265869140625 seconds
+2018-01-30 14:57:10,291 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:57:10,698 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.39629364013671875 seconds
+2018-01-30 14:57:10,738 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.032032012939453125 seconds
+2018-01-30 14:57:10,796 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05003666877746582 seconds
+2018-01-30 14:57:10,843 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04077029228210449 seconds
+2018-01-30 14:57:10,865 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.01601266860961914 seconds
+2018-01-30 14:57:10,870 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:57:12,095 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.2185232639312744 seconds
+2018-01-30 14:57:12,138 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03302907943725586 seconds
+2018-01-30 14:57:12,187 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.04303097724914551 seconds
+2018-01-30 14:57:12,249 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.057616472244262695 seconds
+2018-01-30 14:57:13,294 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.03800082206726074 seconds
+2018-01-30 14:57:13,306 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:57:13,617 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2988555431365967 seconds
+2018-01-30 14:57:13,661 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03653216361999512 seconds
+2018-01-30 14:57:13,710 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04002952575683594 seconds
+2018-01-30 14:57:13,771 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05104565620422363 seconds
+2018-01-30 14:57:16,135 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.35796403884887695 seconds
+2018-01-30 14:57:16,141 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:57:46,973 - root - INFO - ############################### START ###############################
+2018-01-30 14:58:04,466 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.486654043197632 seconds
+2018-01-30 14:58:04,778 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.30147767066955566 seconds
+2018-01-30 14:58:05,486 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.692155122756958 seconds
+2018-01-30 14:58:05,563 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.06855392456054688 seconds
+2018-01-30 14:58:05,636 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.0660562515258789 seconds
+2018-01-30 14:58:05,711 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0670614242553711 seconds
+2018-01-30 14:58:05,748 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.028020858764648438 seconds
+2018-01-30 14:58:05,754 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:58:06,051 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.29026174545288086 seconds
+2018-01-30 14:58:06,100 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.041037797927856445 seconds
+2018-01-30 14:58:06,150 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.04303121566772461 seconds
+2018-01-30 14:58:06,193 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.03753232955932617 seconds
+2018-01-30 14:58:06,215 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.015011072158813477 seconds
+2018-01-30 14:58:06,220 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:58:07,531 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.304206371307373 seconds
+2018-01-30 14:58:07,569 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.030023813247680664 seconds
+2018-01-30 14:58:07,629 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.05354809761047363 seconds
+2018-01-30 14:58:07,672 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.03702545166015625 seconds
+2018-01-30 14:58:07,691 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.012514352798461914 seconds
+2018-01-30 14:58:07,697 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:58:07,980 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2782268524169922 seconds
+2018-01-30 14:58:08,019 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.031525373458862305 seconds
+2018-01-30 14:58:08,077 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.05103731155395508 seconds
+2018-01-30 14:58:08,136 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05304145812988281 seconds
+2018-01-30 14:58:09,182 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.039026737213134766 seconds
+2018-01-30 14:58:09,190 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:58:09,462 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2622036933898926 seconds
+2018-01-30 14:58:09,501 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03397846221923828 seconds
+2018-01-30 14:58:09,552 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.042027950286865234 seconds
+2018-01-30 14:58:09,607 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04886674880981445 seconds
+2018-01-30 14:58:11,671 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.057039499282836914 seconds
+2018-01-30 14:58:11,678 - root - INFO - ###############################  End  ###############################
+2018-01-30 14:59:19,808 - root - INFO - ############################### START ###############################
+2018-01-30 14:59:38,677 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.863813161849976 seconds
+2018-01-30 14:59:38,917 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2319037914276123 seconds
+2018-01-30 14:59:39,388 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4568297863006592 seconds
+2018-01-30 14:59:39,476 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08056092262268066 seconds
+2018-01-30 14:59:39,582 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.09507226943969727 seconds
+2018-01-30 14:59:39,667 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07355666160583496 seconds
+2018-01-30 14:59:41,885 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.20961213111877441 seconds
+2018-01-30 14:59:41,891 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:03:22,511 - root - INFO - ############################### START ###############################
+2018-01-30 15:03:39,943 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.42746090888977 seconds
+2018-01-30 15:03:39,957 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.005003690719604492 seconds
+2018-01-30 15:03:40,456 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4805765151977539 seconds
+2018-01-30 15:03:40,528 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.06464505195617676 seconds
+2018-01-30 15:03:40,607 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.0705561637878418 seconds
+2018-01-30 15:03:40,677 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06455183029174805 seconds
+2018-01-30 15:03:40,718 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.029056072235107422 seconds
+2018-01-30 15:03:40,726 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:03:41,050 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.31430864334106445 seconds
+2018-01-30 15:03:41,096 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.040027618408203125 seconds
+2018-01-30 15:03:41,144 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.03702998161315918 seconds
+2018-01-30 15:03:41,212 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06054878234863281 seconds
+2018-01-30 15:03:41,246 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.027019023895263672 seconds
+2018-01-30 15:03:41,252 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:03:42,820 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.5610952377319336 seconds
+2018-01-30 15:03:42,864 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.03702712059020996 seconds
+2018-01-30 15:03:42,931 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.057050228118896484 seconds
+2018-01-30 15:03:42,977 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.038027048110961914 seconds
+2018-01-30 15:03:43,002 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.017014741897583008 seconds
+2018-01-30 15:03:43,008 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:03:43,424 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4072456359863281 seconds
+2018-01-30 15:03:43,461 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.032024383544921875 seconds
+2018-01-30 15:03:43,515 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.04755234718322754 seconds
+2018-01-30 15:03:43,600 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07705283164978027 seconds
+2018-01-30 15:03:44,637 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.03100895881652832 seconds
+2018-01-30 15:03:44,644 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:03:44,954 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2932298183441162 seconds
+2018-01-30 15:03:45,010 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04703879356384277 seconds
+2018-01-30 15:03:45,079 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.057041168212890625 seconds
+2018-01-30 15:03:45,150 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06205463409423828 seconds
+2018-01-30 15:03:47,326 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.17013239860534668 seconds
+2018-01-30 15:03:47,333 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:06:45,109 - root - INFO - ############################### START ###############################
+2018-01-30 15:07:03,023 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.909212827682495 seconds
+2018-01-30 15:07:03,035 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.005005359649658203 seconds
+2018-01-30 15:07:03,676 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.6265873908996582 seconds
+2018-01-30 15:07:03,740 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.05804109573364258 seconds
+2018-01-30 15:07:03,813 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.06705617904663086 seconds
+2018-01-30 15:07:03,898 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07105422019958496 seconds
+2018-01-30 15:07:03,934 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.028019189834594727 seconds
+2018-01-30 15:07:03,941 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:07:04,250 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.300736665725708 seconds
+2018-01-30 15:07:04,302 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04553532600402832 seconds
+2018-01-30 15:07:04,402 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.09107184410095215 seconds
+2018-01-30 15:07:04,452 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.042038679122924805 seconds
+2018-01-30 15:07:04,477 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.016516923904418945 seconds
+2018-01-30 15:07:04,484 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:07:06,295 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.803342342376709 seconds
+2018-01-30 15:07:06,338 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.032022953033447266 seconds
+2018-01-30 15:07:06,412 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.06254959106445312 seconds
+2018-01-30 15:07:06,461 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0415341854095459 seconds
+2018-01-30 15:07:06,481 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.013010978698730469 seconds
+2018-01-30 15:07:06,486 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:07:07,152 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.659125566482544 seconds
+2018-01-30 15:07:07,204 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04503631591796875 seconds
+2018-01-30 15:07:07,259 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.04703974723815918 seconds
+2018-01-30 15:07:07,323 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05912327766418457 seconds
+2018-01-30 15:07:08,349 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.019962549209594727 seconds
+2018-01-30 15:07:08,359 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:07:08,638 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.2672269344329834 seconds
+2018-01-30 15:07:08,678 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.035036325454711914 seconds
+2018-01-30 15:07:08,727 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04002785682678223 seconds
+2018-01-30 15:07:08,783 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.049039602279663086 seconds
+2018-01-30 15:07:11,001 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.2121717929840088 seconds
+2018-01-30 15:07:11,009 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:07:23,562 - root - INFO - ############################### START ###############################
+2018-01-30 15:07:58,392 - root - INFO - ############################### START ###############################
+2018-01-30 15:08:15,670 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.271171808242798 seconds
+2018-01-30 15:08:16,131 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.40878939628601074 seconds
+2018-01-30 15:08:16,672 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4714226722717285 seconds
+2018-01-30 15:08:16,756 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07305312156677246 seconds
+2018-01-30 15:08:16,835 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.062044382095336914 seconds
+2018-01-30 15:08:16,916 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06404876708984375 seconds
+2018-01-30 15:08:16,955 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.026535511016845703 seconds
+2018-01-30 15:08:16,963 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:08:17,272 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.29824018478393555 seconds
+2018-01-30 15:08:17,333 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.05303788185119629 seconds
+2018-01-30 15:08:17,393 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.053048133850097656 seconds
+2018-01-30 15:08:17,494 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.09207653999328613 seconds
+2018-01-30 15:08:17,522 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.019011497497558594 seconds
+2018-01-30 15:08:17,532 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:08:19,002 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.4627814292907715 seconds
+2018-01-30 15:08:19,041 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.0310213565826416 seconds
+2018-01-30 15:08:19,102 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.053544044494628906 seconds
+2018-01-30 15:08:19,150 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04053092002868652 seconds
+2018-01-30 15:08:19,176 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.02001786231994629 seconds
+2018-01-30 15:08:19,182 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:08:19,594 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.40312767028808594 seconds
+2018-01-30 15:08:19,646 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04202914237976074 seconds
+2018-01-30 15:08:19,706 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.05054140090942383 seconds
+2018-01-30 15:08:19,797 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08407092094421387 seconds
+2018-01-30 15:08:20,826 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.021013498306274414 seconds
+2018-01-30 15:08:20,834 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:08:21,114 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.27074670791625977 seconds
+2018-01-30 15:08:21,154 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.03452944755554199 seconds
+2018-01-30 15:08:21,202 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.03702592849731445 seconds
+2018-01-30 15:08:21,261 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05354022979736328 seconds
+2018-01-30 15:08:23,358 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.09106779098510742 seconds
+2018-01-30 15:08:23,364 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:09:06,580 - root - INFO - ############################### START ###############################
+2018-01-30 15:09:23,924 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.337263584136963 seconds
+2018-01-30 15:09:24,205 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.26983022689819336 seconds
+2018-01-30 15:09:24,651 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.43202972412109375 seconds
+2018-01-30 15:09:24,733 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07205843925476074 seconds
+2018-01-30 15:09:24,795 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.05203533172607422 seconds
+2018-01-30 15:09:24,846 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.04509234428405762 seconds
+2018-01-30 15:09:24,874 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.02300405502319336 seconds
+2018-01-30 15:09:24,880 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:09:25,190 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.3025505542755127 seconds
+2018-01-30 15:09:25,262 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.05272173881530762 seconds
+2018-01-30 15:09:25,334 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.06455826759338379 seconds
+2018-01-30 15:09:25,394 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05003643035888672 seconds
+2018-01-30 15:09:25,428 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.024524211883544922 seconds
+2018-01-30 15:09:25,439 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:09:25,755 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.30629539489746094 seconds
+2018-01-30 15:09:25,792 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.028020858764648438 seconds
+2018-01-30 15:09:25,880 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.08306670188903809 seconds
+2018-01-30 15:09:25,927 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0390324592590332 seconds
+2018-01-30 15:09:25,954 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.022016048431396484 seconds
+2018-01-30 15:09:25,961 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:09:28,936 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 2.962125778198242 seconds
+2018-01-30 15:09:29,314 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.037032127380371094 seconds
+2018-01-30 15:09:29,378 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.05303788185119629 seconds
+2018-01-30 15:09:29,449 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.0610504150390625 seconds
+2018-01-30 15:09:30,475 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.019015073776245117 seconds
+2018-01-30 15:09:30,483 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:09:30,848 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.35830235481262207 seconds
+2018-01-30 15:09:30,901 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.04403209686279297 seconds
+2018-01-30 15:09:30,962 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.04953932762145996 seconds
+2018-01-30 15:09:31,033 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.06105160713195801 seconds
+2018-01-30 15:09:33,368 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.3262367248535156 seconds
+2018-01-30 15:09:33,374 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:14:27,450 - root - INFO - ############################### START ###############################
+2018-01-30 15:14:44,160 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.703359127044678 seconds
+2018-01-30 15:14:44,493 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3222484588623047 seconds
+2018-01-30 15:17:13,526 - root - INFO - ############################### START ###############################
+2018-01-30 15:17:29,096 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.564343690872192 seconds
+2018-01-30 15:17:29,422 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.31627821922302246 seconds
+2018-01-30 15:18:31,248 - root - INFO - ############################### START ###############################
+2018-01-30 15:18:48,591 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.33343768119812 seconds
+2018-01-30 15:18:48,607 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.006002664566040039 seconds
+2018-01-30 15:20:24,707 - root - INFO - ############################### START ###############################
+2018-01-30 15:20:41,989 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.275567293167114 seconds
+2018-01-30 15:20:42,002 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.004002571105957031 seconds
+2018-01-30 15:20:42,580 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5374236106872559 seconds
+2018-01-30 15:20:42,643 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.056624650955200195 seconds
+2018-01-30 15:20:42,709 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.058039188385009766 seconds
+2018-01-30 15:20:42,790 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07154583930969238 seconds
+2018-01-30 15:20:47,032 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 2.234161376953125 seconds
+2018-01-30 15:20:50,239 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 3.2012264728546143 seconds
+2018-01-30 15:20:50,245 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:21:00,605 - root - INFO - ############################### START ###############################
+2018-01-30 15:21:19,419 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.807891845703125 seconds
+2018-01-30 15:21:19,741 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3133678436279297 seconds
+2018-01-30 15:21:42,191 - root - INFO - ############################### START ###############################
+2018-01-30 15:21:59,800 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 17.603474378585815 seconds
+2018-01-30 15:21:59,811 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.0050051212310791016 seconds
+2018-01-30 15:22:38,786 - root - INFO - ############################### START ###############################
+2018-01-30 15:22:57,462 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 18.670578002929688 seconds
+2018-01-30 15:22:57,756 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.28205299377441406 seconds
+2018-01-30 15:23:17,995 - root - INFO - ############################### START ###############################
+2018-01-30 15:23:34,205 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.2035870552063 seconds
+2018-01-30 15:23:34,506 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2927520275115967 seconds
+2018-01-30 15:23:35,180 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.631397008895874 seconds
+2018-01-30 15:23:35,264 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07908296585083008 seconds
+2018-01-30 15:23:35,347 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.07501888275146484 seconds
+2018-01-30 15:23:35,411 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05955910682678223 seconds
+2018-01-30 15:23:35,448 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.03102254867553711 seconds
+2018-01-30 15:23:37,444 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.9673917293548584 seconds
+2018-01-30 15:23:37,449 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:23:38,456 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.001500129699707 seconds
+2018-01-30 15:23:39,479 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0052189826965332 seconds
+2018-01-30 15:23:39,500 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:23:40,677 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.002007246017456 seconds
+2018-01-30 15:23:41,702 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0041930675506592 seconds
+2018-01-30 15:23:41,722 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:23:42,757 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0036349296569824 seconds
+2018-01-30 15:23:43,778 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0027961730957031 seconds
+2018-01-30 15:23:43,796 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:23:44,827 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.001831293106079 seconds
+2018-01-30 15:23:45,841 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.003251314163208 seconds
+2018-01-30 15:23:45,859 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:24:28,300 - root - INFO - ############################### START ###############################
+2018-01-30 15:24:45,036 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.729931592941284 seconds
+2018-01-30 15:24:45,286 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.24019932746887207 seconds
+2018-01-30 15:24:45,829 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5296339988708496 seconds
+2018-01-30 15:24:45,939 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07155609130859375 seconds
+2018-01-30 15:24:46,020 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.0630500316619873 seconds
+2018-01-30 15:24:46,080 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05404543876647949 seconds
+2018-01-30 15:24:46,111 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.019013643264770508 seconds
+2018-01-30 15:24:47,907 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.7908008098602295 seconds
+2018-01-30 15:24:47,915 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:24:48,925 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0015192031860352 seconds
+2018-01-30 15:24:49,946 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0048377513885498 seconds
+2018-01-30 15:24:49,965 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:24:51,105 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0073513984680176 seconds
+2018-01-30 15:24:52,130 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.004988193511963 seconds
+2018-01-30 15:24:52,172 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:24:53,200 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.001582145690918 seconds
+2018-01-30 15:24:54,223 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.0041062831878662 seconds
+2018-01-30 15:24:54,243 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:26:26,610 - root - INFO - ############################### START ###############################
+2018-01-30 15:26:43,480 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 16.863407611846924 seconds
+2018-01-30 15:26:43,813 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3242502212524414 seconds
+2018-01-30 15:26:45,463 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.6433675289154053 seconds
+2018-01-30 15:26:46,479 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0023372173309326 seconds
+2018-01-30 15:26:46,497 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:26:47,647 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0006434917449951 seconds
+2018-01-30 15:26:47,665 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:26:48,698 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0028526782989502 seconds
+2018-01-30 15:26:48,715 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:26:49,750 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0025675296783447 seconds
+2018-01-30 15:26:49,768 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:26:50,798 - root - INFO - FAIL    Unable to load http://192.168.1.203:8080/ips/login.real.jsp, Spend 1.0017638206481934 seconds
+2018-01-30 15:26:50,810 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:28:09,672 - root - INFO - ############################### START ###############################
+2018-01-30 15:28:25,600 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 15.922033548355103 seconds
+2018-01-30 15:28:25,842 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.2307882308959961 seconds
+2018-01-30 15:28:26,365 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5159132480621338 seconds
+2018-01-30 15:28:26,443 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07107710838317871 seconds
+2018-01-30 15:28:26,533 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.07907581329345703 seconds
+2018-01-30 15:28:26,597 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.058542728424072266 seconds
+2018-01-30 15:28:26,624 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.022521257400512695 seconds
+2018-01-30 15:28:28,229 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.5943732261657715 seconds
+2018-01-30 15:28:28,235 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:28:28,241 - root - INFO - ############################### START ###############################
+2018-01-30 15:28:41,257 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 13.00873851776123 seconds
+2018-01-30 15:28:41,518 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.25069522857666016 seconds
+2018-01-30 15:28:42,039 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5134034156799316 seconds
+2018-01-30 15:28:42,125 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.0800631046295166 seconds
+2018-01-30 15:28:42,300 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.16579151153564453 seconds
+2018-01-30 15:28:42,347 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.041028738021850586 seconds
+2018-01-30 15:28:42,375 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.01801586151123047 seconds
+2018-01-30 15:28:44,151 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.769087791442871 seconds
+2018-01-30 15:28:44,164 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:28:44,181 - root - INFO - ############################### START ###############################
+2018-01-30 15:28:57,301 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 13.105441570281982 seconds
+2018-01-30 15:28:57,636 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3267333507537842 seconds
+2018-01-30 15:28:58,094 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.44907259941101074 seconds
+2018-01-30 15:28:58,177 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.07306480407714844 seconds
+2018-01-30 15:28:58,261 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.07406091690063477 seconds
+2018-01-30 15:28:58,322 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.05203747749328613 seconds
+2018-01-30 15:28:58,350 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.01851940155029297 seconds
+2018-01-30 15:29:00,259 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.9035682678222656 seconds
+2018-01-30 15:29:00,268 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:29:00,278 - root - INFO - ############################### START ###############################
+2018-01-30 15:29:13,699 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 13.410659313201904 seconds
+2018-01-30 15:29:14,013 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.3051276206970215 seconds
+2018-01-30 15:29:14,430 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.4023125171661377 seconds
+2018-01-30 15:29:14,518 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08106613159179688 seconds
+2018-01-30 15:29:14,604 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 22222, Spend 0.07807564735412598 seconds
+2018-01-30 15:29:14,700 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.08606529235839844 seconds
+2018-01-30 15:29:15,746 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.03402519226074219 seconds
+2018-01-30 15:29:17,414 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 1.6628458499908447 seconds
+2018-01-30 15:29:17,419 - root - INFO - ###############################  End  ###############################
+2018-01-30 15:29:17,426 - root - INFO - ############################### START ###############################
+2018-01-30 15:29:30,234 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 12.801103115081787 seconds
+2018-01-30 15:29:30,558 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.31424975395202637 seconds
+2018-01-30 15:29:31,008 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.44244909286499023 seconds
+2018-01-30 15:29:31,111 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.09807944297790527 seconds
+2018-01-30 15:29:31,402 - root - INFO - SUCCESS    Clear and type element: <id->password> content: 111111, Spend 0.28118181228637695 seconds
+2018-01-30 15:29:31,471 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.060044050216674805 seconds
+2018-01-30 15:29:33,502 - root - INFO - SUCCESS    Get element text element: <xpath->html/body/div[2]/div/div[2]/div[2]/span>, Spend 0.023004770278930664 seconds
+2018-01-30 15:29:35,521 - root - INFO - SUCCESS    Closed all window and quit the driver, Spend 2.0124549865722656 seconds
+2018-01-30 15:29:35,526 - root - INFO - ###############################  End  ###############################
+2018-01-30 16:04:12,171 - root - INFO - ############################### START ###############################
+2018-01-30 16:04:26,612 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 14.434176445007324 seconds
+2018-01-30 16:04:26,923 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.30225133895874023 seconds
+2018-01-30 16:04:27,441 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.5082170963287354 seconds
+2018-01-30 16:04:27,516 - root - INFO - SUCCESS    Clear and type element: <id->username> content: , Spend 0.06856274604797363 seconds
+2018-01-30 16:04:27,618 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.09107565879821777 seconds
+2018-01-30 16:04:27,710 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.07805418968200684 seconds
+2018-01-30 16:04:27,737 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.01851677894592285 seconds
+2018-01-30 16:04:27,743 - root - INFO - ############################### START ###############################
+2018-01-30 16:04:52,950 - root - INFO - SUCCESS    Start a new browser: firefox, Spend 25.199676036834717 seconds
+2018-01-30 16:04:53,240 - root - INFO - SUCCESS    Set browser window maximized, Spend 0.27971339225769043 seconds
+2018-01-30 16:04:53,678 - root - INFO - SUCCESS    Navigated to http://192.168.1.203:8080/ips/login.real.jsp, Spend 0.42775845527648926 seconds
+2018-01-30 16:04:53,773 - root - INFO - SUCCESS    Clear and type element: <id->username> content: admin, Spend 0.08562207221984863 seconds
+2018-01-30 16:04:53,859 - root - INFO - SUCCESS    Clear and type element: <id->password> content: , Spend 0.07847452163696289 seconds
+2018-01-30 16:04:53,985 - root - INFO - SUCCESS    Clicked element: <id->btnLogin>, Spend 0.11090755462646484 seconds
+2018-01-30 16:04:54,010 - root - INFO - SUCCESS    Get element text element: <id->msg>, Spend 0.018013477325439453 seconds
+2018-01-30 16:04:54,016 - root - INFO - ############################### START ###############################

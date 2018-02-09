@@ -1,12 +1,14 @@
 #coding=utf-8
 
 from public.common import basepage
+import time
 
 class UserManagementPage(basepage.Page):
 
     def login(self):
         """登录系统"""
         self.dr.open("http://192.168.1.203:8080/ips/login.real.jsp")
+        time.sleep(5)
         self.dr.clear_type('id->username', 'admin')
         self.dr.clear_type('id->password', '111111')
         self.dr.click('id->btnLogin')

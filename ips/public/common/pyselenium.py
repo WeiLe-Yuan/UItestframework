@@ -32,9 +32,9 @@ class PySelenium(object):
         dr = None
         if remoteAddress is None:
             if browser == "firefox" or browser == "ff":
-                profile_directory = r'C:\Users\BMIS031\AppData\Roaming\Mozilla\Firefox\Profiles\zoh885fn.default'
-                profile = webdriver.FirefoxProfile(profile_directory)     #配置火狐浏览器为默认配置
-                dr = webdriver.Firefox(profile)
+                #profile_directory = r'C:\Users\BMIS031\AppData\Roaming\Mozilla\Firefox\Profiles\zoh885fn.default'
+                #profile = webdriver.FirefoxProfile(profile_directory)     #配置火狐浏览器为默认配置
+                dr = webdriver.Firefox()
             elif browser == "chrome" or browser == "Chrome":
                 dr = webdriver.Chrome()
             elif browser == "internet explorer" or browser == "ie":
